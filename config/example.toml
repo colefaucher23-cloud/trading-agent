@@ -1,0 +1,40 @@
+# Parent order the agent works through one trading day.
+[order]
+symbol = "SPY"
+side = "buy"          # buy | sell
+quantity = 1000
+
+[strategy]
+mode = "dynamic"      # dynamic = Eq. 41 (re-plans every bin) | static = Eq. 40 (fixed at the open)
+lam = 3.0             # robust Kalman filter: outlier threshold in predictive std devs; "none" = standard KF
+lam_mode = "sigma"    # "sigma" (stable, default) | "paper" (threshold = lam*S/2, Eq. 34 verbatim)
+train_days = 40       # calibration window; pick with `kvwap backtest --cv-days 20`
+min_train_days = 10
+em_max_iter = 100
+slices_per_bin = 3    # child order split into equal slices across each 15-min bin
+bin_delay_seconds = 10
+
+[session]             # regular trading hours; I = (close - open) / bin_minutes bins
+tz = "America/New_York"
+open = "09:30"
+close = "16:00"
+bin_minutes = 15
+
+[data]
+source = "yahoo"      # yahoo (no key) | alpaca (free key) | alphavantage (free key) | csv
+# feed = "iex"        # alpaca only: iex (real-time, IEX volume only) | sip (consolidated, 15-min delay on free plan)
+# path = "data/SPY_15m.csv"   # csv only
+
+[broker]
+name = "dry-run"      # dry-run (log only) | alpaca-paper (free paper account) | alpaca-live
+
+[risk]
+max_participation = 0.10    # child order <= 10% of forecast bin volume
+volume_scale = 1.0          # set ~40 with Alpaca's IEX feed so the cap refers to consolidated volume
+# max_child_notional = 25000
+# max_parent_notional = 1000000
+kill_switch_file = "STOP"   # `touch STOP` halts all new orders immediately
+final_sweep = false         # true = ignore the participation cap on the last bin to guarantee completion
+
+[journal]
+path = "journal/executions.jsonl"
