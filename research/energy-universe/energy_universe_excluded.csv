@@ -1,0 +1,601 @@
+symbol,name,source_sector,source_industry,reason
+AAON,AAON Inc. Common Stock,Industrials,Industrial Machinery/Components,keyword/industry match only; not an energy business
+ABAT,American Battery Technology Company Common Stock,Industrials,Mining & Quarrying of Nonmetallic Minerals (No Fuels),keyword/industry match only; not an energy business
+ACFN,Acorn Energy Inc. Common Stock,Consumer Discretionary,Military/Government/Technical,keyword/industry match only; not an energy business
+ACNT,Ascent Industries Co. Common Stock,Industrials,Major Chemicals,keyword/industry match only; not an energy business
+AD,Array Digital Infrastructure Inc. Common Shares,Telecommunications,Telecommunications Equipment,keyword/industry match only; not an energy business
+ADSE,ADS-TEC ENERGY PLC Ordinary Shares,Consumer Discretionary,Industrial Specialties,keyword/industry match only; not an energy business
+ADSEW,ADS-TEC ENERGY PLC Warrant,Consumer Discretionary,Industrial Specialties,keyword/industry match only; not an energy business
+ADUR,Aduro Clean Technologies Inc. Common Stock,Industrials,Major Chemicals,keyword/industry match only; not an energy business
+AEAQ,Activate Energy Acquisition Corp. Class A Ordinary Share,,,"blank-check company (SPAC), no operating business"
+AEIS,Advanced Energy Industries Inc. Common Stock,Technology,Industrial Machinery/Components,keyword/industry match only; not an energy business
+AEM,Agnico Eagle Mines Limited Common Stock,Basic Materials,Precious Metals,keyword/industry match only; not an energy business
+AEP,American Electric Power Company Inc. Common Stock,Utilities,Electric Utilities: Central,keyword/industry match only; not an energy business
+AG,First Majestic Silver Corp. Ordinary Shares (Canada),Basic Materials,Precious Metals,keyword/industry match only; not an energy business
+AGCO,AGCO Corporation Common Stock,Industrials,Industrial Machinery/Components,keyword/industry match only; not an energy business
+AGI,Alamos Gold Inc. Class A Common Shares,Basic Materials,Precious Metals,keyword/industry match only; not an energy business
+AIIA,AI Infrastructure Acquisition Corp. Class A Ordinary Shares,Finance,Blank Checks,"blank-check company (SPAC), no operating business"
+AIRJ,AirJoule Technologies Corporation Class A Common Stock,Industrials,Industrial Machinery/Components,keyword/industry match only; not an energy business
+AIRJW,AirJoule Technologies Corporation Warrant,Industrials,Industrial Machinery/Components,keyword/industry match only; not an energy business
+ALB,Albemarle Corporation Common Stock,Industrials,Major Chemicals,keyword/industry match only; not an energy business
+ALG,Alamo Group Inc. Common Stock,Industrials,Industrial Machinery/Components,keyword/industry match only; not an energy business
+ALH,Alliance Laundry Holdings Inc. Common Stock,Industrials,Industrial Machinery/Components,keyword/industry match only; not an energy business
+ALM,Almonty Industries Inc. Common Shares,Basic Materials,Other Metals and Minerals,keyword/industry match only; not an energy business
+ALTG,Alta Equipment Group Inc. Class A Common Stock,Industrials,Industrial Machinery/Components,keyword/industry match only; not an energy business
+ALUB,Alussa Energy Acquisition Corp. II Class A Ordinary Shares,,,"blank-check company (SPAC), no operating business"
+AME,AMETEK Inc.,Industrials,Industrial Machinery/Components,keyword/industry match only; not an energy business
+AQN,Algonquin Power & Utilities Corp. Common Shares,Utilities,Electric Utilities: Central,keyword/industry match only; not an energy business
+AQNB,Algonquin Power & Utilities Corp. 6.20% Fixed-to-Floating Subordinated Notes Series 2019-A due July 1 2079,Utilities,Electric Utilities: Central,keyword/industry match only; not an energy business
+ARHS,Arhaus Inc. Class A Common Stock,Consumer Discretionary,Other Specialty Stores,keyword/industry match only; not an energy business
+ARQ,Arq Inc. Common Stock,Industrials,Major Chemicals,keyword/industry match only; not an energy business
+ARTW,Art's-Way Manufacturing Co. Inc. Common Stock,Industrials,Industrial Machinery/Components,keyword/industry match only; not an energy business
+ASGI,abrdn Global Infrastructure Income Fund Common Shares of Beneficial Interest,Finance,Investment Managers,keyword/industry match only; not an energy business
+ASIX,AdvanSix Inc. Common Stock,Industrials,Major Chemicals,keyword/industry match only; not an energy business
+ASO,Academy Sports and Outdoors Inc. Common Stock,Consumer Discretionary,Other Specialty Stores,keyword/industry match only; not an energy business
+ASPI,ASP Isotopes Inc. Common Stock,Industrials,Major Chemicals,power generation / nuclear technology (Utilities or Industrials)
+ASTL,Algoma Steel Group Inc. Common Shares,Industrials,Steel/Iron Ore,keyword/industry match only; not an energy business
+ASTLW,Algoma Steel Group Inc. Warrant,Industrials,Steel/Iron Ore,keyword/industry match only; not an energy business
+ATCX,Atlas Critical Minerals Corporation Common Stock,Basic Materials,Precious Metals,keyword/industry match only; not an energy business
+ATI,ATI Inc. Common Stock,Industrials,Steel/Iron Ore,keyword/industry match only; not an energy business
+ATLX,Atlas Lithium Corporation Common Stock,Industrials,Mining & Quarrying of Nonmetallic Minerals (No Fuels),keyword/industry match only; not an energy business
+ATO,Atmos Energy Corporation Common Stock,Utilities,Oil/Gas Transmission,gas/multi utility (GICS Utilities)
+ATS,ATS Corporation Common Shares,Industrials,Industrial Machinery/Components,keyword/industry match only; not an energy business
+AU,AngloGold Ashanti PLC Ordinary Shares,Basic Materials,Precious Metals,keyword/industry match only; not an energy business
+AUST,Austin Gold Corp. Common Shares,Basic Materials,Precious Metals,keyword/industry match only; not an energy business
+AVNT,Avient Corporation Common Stock,Industrials,Major Chemicals,keyword/industry match only; not an energy business
+AYA,Aya Gold & Silver Inc. Common Shares,Basic Materials,Precious Metals,keyword/industry match only; not an energy business
+AZ,A2Z Cust2Mate Solutions Corp. Common Shares,Industrials,Industrial Machinery/Components,keyword/industry match only; not an energy business
+B,Barrick Mining Corporation Common Shares,Basic Materials,Precious Metals,keyword/industry match only; not an energy business
+BAK,Braskem SA ADR,Industrials,Major Chemicals,keyword/industry match only; not an energy business
+BARK,BARK Inc. Class A Common Stock,Consumer Discretionary,Other Specialty Stores,keyword/industry match only; not an energy business
+BBWI,Bath & Body Works Inc.,Consumer Discretionary,Other Specialty Stores,keyword/industry match only; not an energy business
+BC,Brunswick Corporation Common Stock,Industrials,Industrial Machinery/Components,keyword/industry match only; not an energy business
+BCHT,Birchtech Corp. Common Stock,Industrials,Industrial Machinery/Components,keyword/industry match only; not an energy business
+BCPC,Balchem Corporation Common Stock,Industrials,Major Chemicals,keyword/industry match only; not an energy business
+BE,Bloom Energy Corporation Class A Common Stock,Energy,Industrial Machinery/Components,fuel cells (Industrials)
+BEEP,Mobile Infrastructure Corporation Common Stock,Finance,Real Estate,keyword/industry match only; not an energy business
+BEP,Brookfield Renewable Partners L.P. Limited Partnership Units,Utilities,Electric Utilities: Central,keyword/industry match only; not an energy business
+BEPC,Brookfield Renewable Corporation Brookfield Renewable Corporation Class A Subordinate Voting Shares,Utilities,Electric Utilities: Central,keyword/industry match only; not an energy business
+BEPH,Brookfield BRP Holdings (Canada) Inc. 4.625% Perpetual Subordinated Notes,Utilities,Electric Utilities: Central,keyword/industry match only; not an energy business
+BEPI,Brookfield BRP Holdings (Canada) Inc. 4.875% Perpetual Subordinated Notes,Utilities,Electric Utilities: Central,keyword/industry match only; not an energy business
+BEPJ,Brookfield BRP Holdings (Canada) Inc. 7.250% Perpetual Subordinated Notes,Utilities,Electric Utilities: Central,keyword/industry match only; not an energy business
+BESS,Bimergen Energy Corporation Common Stock,Utilities,Electric Utilities: Central,keyword/industry match only; not an energy business
+BGDE,Big Digital Energy Inc. Common Stock,Finance,Finance: Consumer Services,keyword/industry match only; not an energy business
+BHP,BHP Group Limited American Depositary Shares (Each representing two Ordinary Shares),Energy,Coal Mining,diversified miner (Materials); source tags it Coal Mining
+BIP,Brookfield Infrastructure Partners LP Limited Partnership Units,Consumer Discretionary,Marine Transportation,keyword/industry match only; not an energy business
+BIPC,Brookfield Infrastructure Corporation Brookfield Infrastructure Corporation,Consumer Discretionary,Marine Transportation,keyword/industry match only; not an energy business
+BIPH,Brookfield Infrastructure Corporation 5.000% Subordinated Notes due 2081,Consumer Discretionary,Marine Transportation,keyword/industry match only; not an energy business
+BIPI,BIP Bermuda Holdings I Limited 5.125% Perpetual Subordinated Notes,Consumer Discretionary,Marine Transportation,keyword/industry match only; not an energy business
+BIPJ,Brookfield Infrastructure Corporation 7.250% Subordinated Notes due 2084,Consumer Discretionary,Marine Transportation,keyword/industry match only; not an energy business
+BIP^A,Brookfield Infrastructure Partners LP 5.125% Class A Preferred Limited Partnership Units Series 13,,,keyword/industry match only; not an energy business
+BIP^B,Brookfield Infrastructure Partners LP 5.000% Class A Preferred Limited Partnership Units Series 14,,,keyword/industry match only; not an energy business
+BIXI,Bitcoin Infrastructure Acquisition Corp Ltd. Class A Ordinary Shares,,,"blank-check company (SPAC), no operating business"
+BIXIW,Bitcoin Infrastructure Acquisition Corp Ltd. Warrant,,,"blank-check company (SPAC), no operating business"
+BKH,Black Hills Corporation Common Stock,Utilities,Electric Utilities: Central,keyword/industry match only; not an energy business
+BKNG,Booking Holdings Inc. Common Stock,Consumer Discretionary,Transportation Services,keyword/industry match only; not an energy business
+BLDP,Ballard Power Systems Inc. Common Shares,Energy,Industrial Machinery/Components,fuel cells (Industrials)
+BMI,Badger Meter Inc. Common Stock,Industrials,Industrial Machinery/Components,keyword/industry match only; not an energy business
+BNED,Barnes & Noble Education Inc Common Stock,Consumer Discretionary,Other Specialty Stores,keyword/industry match only; not an energy business
+BOBS,Bob's Discount Furniture Inc. Common Stock,Consumer Discretionary,Other Specialty Stores,keyword/industry match only; not an energy business
+BQ,Boqii Holding Limited Class A Ordinary Shares,Consumer Discretionary,Other Specialty Stores,keyword/industry match only; not an energy business
+BTG,B2Gold Corp Common shares (Canada),Basic Materials,Precious Metals,keyword/industry match only; not an energy business
+BUI,BlackRock Utility Infrastructure & Power Opportunities Trust,Finance,Trusts Except Educational Religious and Charitable,keyword/industry match only; not an energy business
+BWXT,BWX Technologies Inc. Common Stock,Industrials,Industrial Machinery/Components,power generation / nuclear technology (Utilities or Industrials)
+BXDC,Blackstone Digital Infrastructure Trust Inc. Common Stock,Finance,Real Estate,keyword/industry match only; not an energy business
+CARR,Carrier Global Corporation Common Stock,Industrials,Industrial Machinery/Components,keyword/industry match only; not an energy business
+CBAT,CBAK Energy Technology Limited Ordinary Shares,Miscellaneous,Industrial Machinery/Components,keyword/industry match only; not an energy business
+CBT,Cabot Corporation Common Stock,Industrials,Major Chemicals,keyword/industry match only; not an energy business
+CC,Chemours Company (The) Common Stock,Industrials,Major Chemicals,keyword/industry match only; not an energy business
+CCL,Carnival Corporation Ltd. Common Shares,Consumer Discretionary,Marine Transportation,keyword/industry match only; not an energy business
+CDE,Coeur Mining Inc. Common Stock,Basic Materials,Precious Metals,keyword/industry match only; not an energy business
+CDLR,Cadeler A/S American Depositary Share (each representing four (4) Ordinary Shares),Consumer Discretionary,Marine Transportation,keyword/industry match only; not an energy business
+CDNL,Cardinal Infrastructure Group Inc. Class A Common Stock,Industrials,Military/Government/Technical,keyword/industry match only; not an energy business
+CDXS,Codexis Inc. Common Stock,Industrials,Major Chemicals,keyword/industry match only; not an energy business
+CE,Celanese Corporation Common Stock,Industrials,Major Chemicals,keyword/industry match only; not an energy business
+CEG,Constellation Energy Corporation Common Stock,Utilities,Electric Utilities: Central,power generation / nuclear technology (Utilities or Industrials)
+CEPL,Capstone Energy Plus Inc. Common Stock,Industrials,Industrial Machinery/Components,keyword/industry match only; not an energy business
+CEPU,Central Puerto S.A. American Depositary Shares (each represents ten Common Shares),Utilities,Electric Utilities: Central,power generation / nuclear technology (Utilities or Industrials)
+CETY,Clean Energy Technologies Inc. Common Stock,Utilities,Oil/Gas Transmission,gas/multi utility (GICS Utilities)
+CGAU,Centerra Gold Inc. Common Shares,Basic Materials,Precious Metals,keyword/industry match only; not an energy business
+CGNX,Cognex Corporation Common Stock,Industrials,Industrial Machinery/Components,keyword/industry match only; not an energy business
+CHNR,China Natural Resources Inc. Common Stock,Basic Materials,Precious Metals,keyword/industry match only; not an energy business
+CHRN,ChronoScale Holdings Corporation Common Stock,Industrials,Industrial Machinery/Components,keyword/industry match only; not an energy business
+CIG,Comp En De Mn Cemig ADS American Depositary Shares,Utilities,Electric Utilities: Central,keyword/industry match only; not an energy business
+CITR,CitroTech Inc. Common Stock,Industrials,Major Chemicals,keyword/industry match only; not an energy business
+CLIR,ClearSign Technologies Corporation Common Stock (DE),Industrials,Industrial Machinery/Components,keyword/industry match only; not an energy business
+CMBT,CMB.TECH NV Ordinary Shares,Consumer Discretionary,Marine Transportation,"energy-adjacent but not an energy company (diversified shipping, propane/fuel retail, tank barges)"
+CMC,Commercial Metals Company Common Stock,Industrials,Steel/Iron Ore,keyword/industry match only; not an energy business
+CMCL,Caledonia Mining Corporation Plc Common Shares,Basic Materials,Precious Metals,keyword/industry match only; not an energy business
+CMDB,Costamare Bulkers Holdings Limited Common Stock,Consumer Discretionary,Marine Transportation,keyword/industry match only; not an energy business
+CMI,Cummins Inc. Common Stock,Industrials,Industrial Machinery/Components,keyword/industry match only; not an energy business
+CMP,Compass Minerals Intl Inc Common Stock,Industrials,Mining & Quarrying of Nonmetallic Minerals (No Fuels),keyword/industry match only; not an energy business
+CMRE,Costamare Inc. Common Stock $0.0001 par value,Consumer Discretionary,Marine Transportation,keyword/industry match only; not an energy business
+CMS,CMS Energy Corporation Common Stock,Utilities,Power Generation,keyword/industry match only; not an energy business
+CMSA,CMS Energy Corporation 5.625% Junior Subordinated Notes due 2078,Utilities,Power Generation,keyword/industry match only; not an energy business
+CMSC,CMS Energy Corporation 5.875% Junior Subordinated Notes due 2078,Utilities,Power Generation,keyword/industry match only; not an energy business
+CMSD,CMS Energy Corporation 5.875% Junior Subordinated Notes due 2079,Utilities,Power Generation,keyword/industry match only; not an energy business
+CMS^B,CMS Energy Corporation Preferred Stock,,,keyword/industry match only; not an energy business
+CMS^C,CMS Energy Corporation Depositary Shares each representing a 1/1000th interest in a share of 4.200% Cumulative Redeemable Perpetual Preferred Stock Series C,,,keyword/industry match only; not an energy business
+CNEY,CN Energy Group Inc. Class A Ordinary Shares,Industrials,Major Chemicals,keyword/industry match only; not an energy business
+CNP,CenterPoint Energy Inc (Holding Co) Common Stock,Utilities,Electric Utilities: Central,keyword/industry match only; not an energy business
+CODA,Coda Octopus Group Inc. Common stock,Industrials,Industrial Machinery/Components,keyword/industry match only; not an energy business
+COOT,Australian Oilseeds Holdings Limited Ordinary Shares,Consumer Staples,Packaged Foods,keyword/industry match only; not an energy business
+COOTW,Australian Oilseeds Holdings Limited Warrant,Consumer Staples,Packaged Foods,keyword/industry match only; not an energy business
+CPK,Chesapeake Utilities Corporation Common Stock,Utilities,Oil & Gas Production,gas/multi utility (GICS Utilities)
+CRS,Carpenter Technology Corporation Common Stock,Industrials,Steel/Iron Ore,keyword/industry match only; not an energy business
+CTGO,Contango Silver & Gold Inc. Common Stock,Basic Materials,Precious Metals,keyword/industry match only; not an energy business
+CTRI,Centuri Holdings Inc. Common Stock,Utilities,Oil & Gas Production,gas/multi utility (GICS Utilities)
+CTRM,Castor Maritime Inc. Common Shares,Consumer Discretionary,Marine Transportation,keyword/industry match only; not an energy business
+CUB,Lionheart Holdings Class A Ordinary Shares,Industrials,Industrial Machinery/Components,keyword/industry match only; not an energy business
+CUBWW,Lionheart Holdings Warrant,Industrials,Industrial Machinery/Components,keyword/industry match only; not an energy business
+CVR,Chicago Rivet & Machine Co. Common Stock,Industrials,Industrial Machinery/Components,keyword/industry match only; not an energy business
+CWEN,Clearway Energy Inc. Class C Common Stock,Utilities,Electric Utilities: Central,keyword/industry match only; not an energy business
+CYD,China Yuchai International Limited Common Stock,Industrials,Industrial Machinery/Components,keyword/industry match only; not an energy business
+D,Dominion Energy Inc. Common Stock,Utilities,Electric Utilities: Central,keyword/industry match only; not an energy business
+DAC,Danaos Corporation Common Stock,Consumer Discretionary,Marine Transportation,keyword/industry match only; not an energy business
+DD,DuPont de Nemours Inc. Common Stock,Industrials,Major Chemicals,keyword/industry match only; not an energy business
+DE,Deere & Company Common Stock,Industrials,Industrial Machinery/Components,keyword/industry match only; not an energy business
+DETX,Liberty Defense Holdings Ltd. Common Shares,Industrials,Industrial Machinery/Components,keyword/industry match only; not an energy business
+DFLI,Dragonfly Energy Holdings Corp. Common Stock (NV),Miscellaneous,Industrial Machinery/Components,keyword/industry match only; not an energy business
+DFLIW,Dragonfly Energy Holdings Corp. Warrant,Miscellaneous,Industrial Machinery/Components,keyword/industry match only; not an energy business
+DHR,Danaher Corporation Common Stock,Industrials,Industrial Machinery/Components,keyword/industry match only; not an energy business
+DKS,Dick's Sporting Goods Inc Common Stock,Consumer Discretionary,Other Specialty Stores,keyword/industry match only; not an energy business
+DMB,BNY Mellon Municipal Bond Infrastructure Fund Inc. Common Stock,Finance,Trusts Except Educational Religious and Charitable,keyword/industry match only; not an energy business
+DOV,Dover Corporation Common Stock,Industrials,Industrial Machinery/Components,keyword/industry match only; not an energy business
+DOW,Dow Inc. Common Stock,Industrials,Major Chemicals,keyword/industry match only; not an energy business
+DPG,Duff & Phelps Utility and Infrastructure Fund Inc.,Finance,Trusts Except Educational Religious and Charitable,keyword/industry match only; not an energy business
+DQ,DAQO New Energy Corp. American Depositary Shares each representing five ordinary shares,Technology,Semiconductors,keyword/industry match only; not an energy business
+DRD,DRDGOLD Limited American Depositary Shares,Basic Materials,Precious Metals,keyword/industry match only; not an energy business
+DRS,Leonardo DRS Inc. Common Stock,Industrials,Industrial Machinery/Components,keyword/industry match only; not an energy business
+DSX,Diana Shipping inc. common stock,Consumer Discretionary,Marine Transportation,keyword/industry match only; not an energy business
+DTB,DTE Energy Company 2020 Series G 4.375% Junior Subordinated Debentures due 2080,Utilities,Electric Utilities: Central,keyword/industry match only; not an energy business
+DTE,DTE Energy Company Common Stock,Utilities,Electric Utilities: Central,keyword/industry match only; not an energy business
+DTG,DTE Energy Company 2021 Series E 4.375% Junior Subordinated Debentures,Utilities,Electric Utilities: Central,keyword/industry match only; not an energy business
+DTK,DTE Energy Company 2025 Series H 6.25% Junior Subordinated Debentures due 2085,Utilities,Electric Utilities: Central,keyword/industry match only; not an energy business
+DTW,DTE Energy Company 2017 Series E 5.25% Junior Subordinated Debentures due 2077,Utilities,Electric Utilities: Central,keyword/industry match only; not an energy business
+DUK,Duke Energy Corporation (Holding Company) Common Stock,Utilities,Power Generation,keyword/industry match only; not an energy business
+DUKB,Duke Energy Corporation 5.625% Junior Subordinated Debentures due 2078,Utilities,Power Generation,keyword/industry match only; not an energy business
+DUKU,Duke Energy Corporation Corporate Units,Utilities,Power Generation,keyword/industry match only; not an energy business
+DUK^A,Duke Energy Corporation Depositary Shares each representing a 1/1000th interest in a share of 5.75% Series A Cumulative Redeemable Perpetual Preferred Stock,,,keyword/industry match only; not an energy business
+DXPE,DXP Enterprises Inc. Common Stock,Industrials,Industrial Machinery/Components,keyword/industry match only; not an energy business
+EAF,GrafTech International Ltd. Common Stock,Energy,Industrial Machinery/Components,graphite electrodes (Industrials)
+EAI,Entergy Arkansas LLC First Mortgage Bonds 4.875% Series Due September 1 2066,Utilities,Electric Utilities: Central,keyword/industry match only; not an energy business
+ECVT,Ecovyst Inc. Common Stock,Industrials,Major Chemicals,keyword/industry match only; not an energy business
+EDN,Empresa Distribuidora Y Comercializadora Norte S.A. (Edenor) American Depositary Shares,Utilities,Electric Utilities: Central,keyword/industry match only; not an energy business
+EDRY,EuroDry Ltd. Common Shares,Consumer Discretionary,Marine Transportation,keyword/industry match only; not an energy business
+EFOI,Energy Focus Inc. Common Stock,Consumer Discretionary,Building Products,keyword/industry match only; not an energy business
+EGO,Eldorado Gold Corporation Ordinary Shares,Basic Materials,Precious Metals,keyword/industry match only; not an energy business
+EIX,Edison International Common Stock,Utilities,Electric Utilities: Central,keyword/industry match only; not an energy business
+ELC,Entergy Louisiana Inc. Collateral Trust Mortgage Bonds 4.875 % Series due September 1 2066,Utilities,Electric Utilities: Central,keyword/industry match only; not an energy business
+ELE,Elemental Royalty Corporation Common Stock,Basic Materials,Precious Metals,keyword/industry match only; not an energy business
+ELLO,Ellomay Capital Ltd Ordinary Shares (Israel),Utilities,Electric Utilities: Central,keyword/industry match only; not an energy business
+ELPC,Companhia Paranaense de Energia (COPEL) American Depositary Shares (each representing four (4) Common Shares),Utilities,Electric Utilities: Central,keyword/industry match only; not an energy business
+ELVR,Elevra Lithium Limited American Depository Shares,Industrials,Mining & Quarrying of Nonmetallic Minerals (No Fuels),keyword/industry match only; not an energy business
+EMA,Emera Incorporated Common Shares,Utilities,Electric Utilities: Central,keyword/industry match only; not an energy business
+EMN,Eastman Chemical Company Common Stock,Industrials,Major Chemicals,keyword/industry match only; not an energy business
+EMP,Entergy Mississippi LLC First Mortgage Bonds 4.90% Series Due October 1 2066,Utilities,Electric Utilities: Central,keyword/industry match only; not an energy business
+ENGS,Energys Group Limited Ordinary Shares,Industrials,Engineering & Construction,keyword/industry match only; not an energy business
+ENIC,Enel Chile S.A. American Depositary Shares (Each representing 50 shares of Common Stock),Utilities,Electric Utilities: Central,keyword/industry match only; not an energy business
+ENLT,Enlight Renewable Energy Ltd. Ordinary Shares,Utilities,Electric Utilities: Central,keyword/industry match only; not an energy business
+ENPH,Enphase Energy Inc. Common Stock,Technology,Semiconductors,keyword/industry match only; not an energy business
+EOSE,Eos Energy Enterprises Inc. Class A Common Stock,Miscellaneous,Industrial Machinery/Components,keyword/industry match only; not an energy business
+EOSEW,Eos Energy Enterprises Inc. Warrant,Miscellaneous,Industrial Machinery/Components,keyword/industry match only; not an energy business
+EQX,Equinox Gold Corp. Common Shares,Basic Materials,Precious Metals,keyword/industry match only; not an energy business
+ERII,Energy Recovery Inc. Common Stock,Technology,Industrial Machinery/Components,keyword/industry match only; not an energy business
+ES,Eversource Energy (D/B/A) Common Stock,Utilities,Electric Utilities: Central,keyword/industry match only; not an energy business
+ESAB,ESAB Corporation Common Stock,Industrials,Industrial Machinery/Components,keyword/industry match only; not an energy business
+ESEA,Euroseas Ltd. Common Stock (Marshall Islands),Consumer Discretionary,Marine Transportation,keyword/industry match only; not an energy business
+ESI,Element Solutions Inc. Common Stock,Industrials,Major Chemicals,keyword/industry match only; not an energy business
+ESOA,Energy Services of America Corporation Common Stock,Industrials,Water Sewer Pipeline Comm & Power Line Construction,keyword/industry match only; not an energy business
+ETR,Entergy Corporation Common Stock,Utilities,Electric Utilities: Central,keyword/industry match only; not an energy business
+ETSS,Energy Transition Special Opportunities Class A Ordinary Shares,Finance,Blank Checks,keyword/industry match only; not an energy business
+EURKR,Eureka Acquisition Corp Right,Consumer Discretionary,Marine Transportation,"blank-check company (SPAC), no operating business"
+EXK,Endeavour Silver Corporation Ordinary Shares (Canada),Basic Materials,Precious Metals,keyword/industry match only; not an energy business
+EXPE,Expedia Group Inc. Common Stock,Consumer Discretionary,Transportation Services,keyword/industry match only; not an energy business
+EZPW,EZCORP Inc. Class A Non Voting Common Stock,Consumer Discretionary,Other Specialty Stores,keyword/industry match only; not an energy business
+FAC,Factorial Energy Inc. Class A Common Stock,Miscellaneous,Industrial Machinery/Components,keyword/industry match only; not an energy business
+FACWW,Factorial Energy Inc. Warrant,Miscellaneous,Industrial Machinery/Components,keyword/industry match only; not an energy business
+FCEL,FuelCell Energy Inc. Common Stock,Energy,Industrial Machinery/Components,fuel cells (Industrials)
+FCFS,FirstCash Holdings Inc. Common Stock,Consumer Discretionary,Other Specialty Stores,keyword/industry match only; not an energy business
+FCUV,Focus Universal Inc. Common Stock,Industrials,Industrial Machinery/Components,keyword/industry match only; not an energy business
+FE,FirstEnergy Corp. Common Stock,Utilities,Electric Utilities: Central,keyword/industry match only; not an energy business
+FEAM,5E Advanced Materials Inc. Common Stock,Industrials,Mining & Quarrying of Nonmetallic Minerals (No Fuels),keyword/industry match only; not an energy business
+FF,FutureFuel Corp.  Common shares,Industrials,Major Chemicals,keyword/industry match only; not an energy business
+FILL,iShares MSCI Global Energy Producers ETF,ETP,Global energy equity,no Alpha Vantage prices after 2026-08-29 (closed or delisted)
+FIP,FTAI Infrastructure Inc. Common Stock,Industrials,Railroads,keyword/industry match only; not an energy business
+FISN,Deep Fission Inc. Common Stock,Utilities,Electric Utilities: Central,keyword/industry match only; not an energy business
+FLNC,Fluence Energy Inc. Class A Common Stock,Miscellaneous,Industrial Machinery/Components,keyword/industry match only; not an energy business
+FLWS,1-800-FLOWERS.COM Inc. Common Stock,Consumer Discretionary,Other Specialty Stores,keyword/industry match only; not an energy business
+FLYX,flyExclusive Inc. Class A Common Stock,Consumer Discretionary,Transportation Services,keyword/industry match only; not an energy business
+FMC,FMC Corporation Common Stock,Industrials,Major Chemicals,keyword/industry match only; not an energy business
+FNV,Franco-Nevada Corporation,Basic Materials,Precious Metals,keyword/industry match only; not an energy business
+FOIL,Londian Wason New Energy Tech Inc. American Depositary Shares each representing five Ordinary Shares,Industrials,Industrial Specialties,keyword/industry match only; not an energy business
+FPS,Forgent Power Solutions Inc. Class A Common Stock,Energy,Industrial Machinery/Components,electrical power-distribution equipment
+FRD,Friedman Industries Inc. Common Stock,Industrials,Steel/Iron Ore,keyword/industry match only; not an energy business
+FRVO,Fervo Energy Company Class A common stock,Utilities,Electric Utilities: Central,keyword/industry match only; not an energy business
+FSI,Flexible Solutions International Inc. Common Stock (CDA),Industrials,Major Chemicals,keyword/industry match only; not an energy business
+FSM,Fortuna Mining Corp. Common Shares,Basic Materials,Precious Metals,keyword/industry match only; not an energy business
+FTEK,Fuel Tech Inc. Common Stock,Industrials,Pollution Control Equipment,keyword/industry match only; not an energy business
+FTS,Fortis Inc. Common Shares,Utilities,Electric Utilities: Central,keyword/industry match only; not an energy business
+FTV,Fortive Corporation Common Stock,Industrials,Industrial Machinery/Components,keyword/industry match only; not an energy business
+FURY,Fury Gold Mines Limited Common Shares,Basic Materials,Precious Metals,keyword/industry match only; not an energy business
+GATX,GATX Corporation Common Stock,Consumer Discretionary,Transportation Services,keyword/industry match only; not an energy business
+GAU,Galiano Gold Inc.,Industrials,Mining & Quarrying of Nonmetallic Minerals (No Fuels),keyword/industry match only; not an energy business
+GCDT,Green Circle Decarbonize Technology Limited Class A Ordinary Shares,Industrials,Industrial Machinery/Components,keyword/industry match only; not an energy business
+GDC,GD Culture Group Limited Common Stock,Industrials,Steel/Iron Ore,keyword/industry match only; not an energy business
+GFI,Gold Fields Limited American Depositary Shares,Basic Materials,Precious Metals,keyword/industry match only; not an energy business
+GFUZ,General Fusion Group Ltd. Common Shares,Utilities,Electric Utilities: Central,keyword/industry match only; not an energy business
+GFUZW,General Fusion Group Ltd. Warrant,Utilities,Electric Utilities: Central,keyword/industry match only; not an energy business
+GGB,Gerdau S.A. Common Stock,Industrials,Steel/Iron Ore,keyword/industry match only; not an energy business
+GGN,GAMCO Global Gold Natural Resources & Income Trust,Finance,Finance/Investors Services,keyword/industry match only; not an energy business
+GHM,Graham Corporation Common Stock,Industrials,Industrial Machinery/Components,keyword/industry match only; not an energy business
+GIC,Global Industrial Company Common Stock,Industrials,Industrial Machinery/Components,keyword/industry match only; not an energy business
+GLBS,Globus Maritime Limited Common Stock,Consumer Discretionary,Marine Transportation,keyword/industry match only; not an energy business
+GLDG,GoldMining Inc. Common Shares,Basic Materials,Precious Metals,keyword/industry match only; not an energy business
+GMRS,GMR Solutions Inc. Class A Common Stock,Consumer Discretionary,Transportation Services,keyword/industry match only; not an energy business
+GNE,Genie Energy Ltd. Class B Common Stock Stock,Utilities,Power Generation,keyword/industry match only; not an energy business
+GNK,Genco Shipping & Trading Limited Ordinary Shares New (Marshall Islands),Consumer Discretionary,Marine Transportation,keyword/industry match only; not an energy business
+GNT,GAMCO Natural Resources Gold & Income Trust,Finance,Finance/Investors Services,keyword/industry match only; not an energy business
+GNT^A,GAMCO Natural Resources Gold & Income Tust  5.20% Series A Cumulative Preferred Shares (Liquidation Preference $25.00 per share),,,keyword/industry match only; not an energy business
+GORO,Goldgroup Mining Inc. Common Shares,Basic Materials,Precious Metals,keyword/industry match only; not an energy business
+GPJA,Georgia Power Company Series 2017A 5.00% Junior Subordinated Notes due October 1 2077,Utilities,Electric Utilities: Central,keyword/industry match only; not an energy business
+GREEL,Vulcan Infrastructure and Power Inc. 8.50% Senior Notes due 2026,Finance,Finance: Consumer Services,keyword/industry match only; not an energy business
+GRMN,Garmin Ltd. Common Stock (Switzerland),Industrials,Industrial Machinery/Components,keyword/industry match only; not an energy business
+GRO,Brazil Potash Corp. Common Shares,Industrials,Mining & Quarrying of Nonmetallic Minerals (No Fuels),keyword/industry match only; not an energy business
+GROY,Gold Royalty Corp. Common Shares,Basic Materials,Precious Metals,keyword/industry match only; not an energy business
+GSL,Global Ship Lease Inc New Class A Common Shares,Consumer Discretionary,Marine Transportation,keyword/industry match only; not an energy business
+GTEC,Greenland Technologies Holding Corporation Class A Ordinary Shares,Industrials,Industrial Machinery/Components,keyword/industry match only; not an energy business
+GTES,Gates Industrial Corporation Ltd. Common Shares,Industrials,Industrial Machinery/Components,keyword/industry match only; not an energy business
+GURE,Gulf Resources Inc. (NV) Common Stock,Industrials,Major Chemicals,keyword/industry match only; not an energy business
+GXO,GXO Logistics Inc. Common Stock,Consumer Discretionary,Transportation Services,keyword/industry match only; not an energy business
+HASI,HA Sustainable Infrastructure Capital Inc. Common Stock,Finance,Finance/Investors Services,keyword/industry match only; not an energy business
+HAYW,Hayward Holdings Inc. Common Stock,Industrials,Industrial Machinery/Components,keyword/industry match only; not an energy business
+HDRN,Hadron Energy Inc. Common Stock,Utilities,Electric Utilities: Central,keyword/industry match only; not an energy business
+HDRNW,Hadron Energy Inc. Warrant,Utilities,Electric Utilities: Central,keyword/industry match only; not an energy business
+HE,Hawaiian Electric Industries Inc. Common Stock,Utilities,Electric Utilities: Central,keyword/industry match only; not an energy business
+HITI,High Tide Inc. Common Shares,Consumer Discretionary,Other Specialty Stores,keyword/industry match only; not an energy business
+HL,Hecla Mining Company Common Stock,Industrials,Mining & Quarrying of Nonmetallic Minerals (No Fuels),keyword/industry match only; not an energy business
+HLP,Hongli Group Inc. Class A Ordinary Shares,Industrials,Industrial Machinery/Components,keyword/industry match only; not an energy business
+HMY,Harmony Gold Mining Company Limited,Basic Materials,Precious Metals,keyword/industry match only; not an energy business
+HSAI,Hesai Group American Depositary Share,Industrials,Industrial Machinery/Components,keyword/industry match only; not an energy business
+HSHP,Himalaya Shipping Ltd. Common Shares,Consumer Discretionary,Marine Transportation,keyword/industry match only; not an energy business
+HTCO,High-Trend International Group Class A Ordinary Shares,Consumer Discretionary,Marine Transportation,keyword/industry match only; not an energy business
+HTLM,HomesToLife Ltd Ordinary Shares,Consumer Discretionary,Other Specialty Stores,keyword/industry match only; not an energy business
+HTOO,Fusion Fuel Green PLC Class A Ordinary Shares,Technology,Industrial Machinery/Components,keyword/industry match only; not an energy business
+HUDI,Huadi International Group Co. Ltd. Ordinary Shares,Industrials,Steel/Iron Ore,keyword/industry match only; not an energy business
+HUN,Huntsman Corporation Common Stock,Industrials,Major Chemicals,keyword/industry match only; not an energy business
+HURC,Hurco Companies Inc. Common Stock,Industrials,Industrial Machinery/Components,keyword/industry match only; not an energy business
+HVT,Haverty Furniture Companies Inc. Common Stock,Consumer Discretionary,Other Specialty Stores,keyword/industry match only; not an energy business
+HXL,Hexcel Corporation Common Stock,Industrials,Major Chemicals,keyword/industry match only; not an energy business
+HYMC,Hycroft Mining Holding Corporation Class A Common Stock,Basic Materials,Precious Metals,keyword/industry match only; not an energy business
+IAG,Iamgold Corporation Ordinary Shares,Basic Materials,Precious Metals,keyword/industry match only; not an energy business
+IAUX,i-80 Gold Corp. Common Shares,Basic Materials,Precious Metals,keyword/industry match only; not an energy business
+IDA,IDACORP Inc. Common Stock,Utilities,Electric Utilities: Central,keyword/industry match only; not an energy business
+IDE,Voya Infrastructure Industrials and Materials Fund Common Shares of Beneficial Interest,Finance,Finance/Investors Services,keyword/industry match only; not an energy business
+IDR,Idaho Strategic Resources Inc. Common Stock,Basic Materials,Precious Metals,keyword/industry match only; not an energy business
+IEP,Icahn Enterprises L.P. Common Stock,Energy,Integrated oil Companies,diversified holding company (owns a CVR Energy stake)
+IFF,International Flavors & Fragrances Inc. Common Stock,Industrials,Major Chemicals,keyword/industry match only; not an energy business
+IIIN,Insteel Industries Inc. Common Stock,Industrials,Steel/Iron Ore,keyword/industry match only; not an energy business
+IMSR,Terrestrial Energy Inc. Common Stock,Industrials,Metal Fabrications,keyword/industry match only; not an energy business
+IMSRW,Terrestrial Energy Inc. Warrant,Industrials,Metal Fabrications,keyword/industry match only; not an energy business
+INHD,Inno Holdings Inc. Common Stock,Industrials,Steel/Iron Ore,keyword/industry match only; not an energy business
+INLF,INLIF LIMITED Class A Ordinary Shares,Industrials,Industrial Machinery/Components,keyword/industry match only; not an energy business
+IONR,ioneer Ltd American Depositary Shares,Industrials,Mining & Quarrying of Nonmetallic Minerals (No Fuels),keyword/industry match only; not an energy business
+IOSP,Innospec Inc. Common Stock,Industrials,Major Chemicals,keyword/industry match only; not an energy business
+IPI,Intrepid Potash Inc Common Stock,Industrials,Mining & Quarrying of Nonmetallic Minerals (No Fuels),keyword/industry match only; not an energy business
+IPX,IperionX Limited American Depositary Share,Basic Materials,Other Metals and Minerals,keyword/industry match only; not an energy business
+IR,Ingersoll Rand Inc. Common Stock,Industrials,Industrial Machinery/Components,keyword/industry match only; not an energy business
+ITRG,Integra Resources Corp. Common Shares,Basic Materials,Precious Metals,keyword/industry match only; not an energy business
+ITW,Illinois Tool Works Inc. Common Stock,Industrials,Industrial Machinery/Components,keyword/industry match only; not an energy business
+JBTM,JBT Marel Corporation Common Stock,Industrials,Industrial Machinery/Components,keyword/industry match only; not an energy business
+JCI,Johnson Controls International plc Ordinary Share,Industrials,Industrial Machinery/Components,keyword/industry match only; not an energy business
+JD,JD.com Inc. American Depositary Shares,Consumer Discretionary,Other Specialty Stores,keyword/industry match only; not an energy business
+JTAI,Jet.AI Inc. Common Stock,Consumer Discretionary,Transportation Services,keyword/industry match only; not an energy business
+KAI,Kadant Inc Common Stock,Industrials,Industrial Machinery/Components,keyword/industry match only; not an energy business
+KEEL,Keel Infrastructure Corp. Common Stock,Finance,Finance: Consumer Services,keyword/industry match only; not an energy business
+KEN,Kenon Holdings Ltd. Ordinary Shares,Utilities,Electric Utilities: Central,keyword/industry match only; not an energy business
+KEP,Korea Electric Power Corporation Common Stock,Utilities,Electric Utilities: Central,keyword/industry match only; not an energy business
+KEX,Kirby Corporation Common Stock,Consumer Discretionary,Marine Transportation,"energy-adjacent but not an energy company (diversified shipping, propane/fuel retail, tank barges)"
+KEYS,Keysight Technologies Inc. Common Stock,Industrials,Industrial Machinery/Components,keyword/industry match only; not an energy business
+KGC,Kinross Gold Corporation Common Stock,Basic Materials,Precious Metals,keyword/industry match only; not an energy business
+KITT,Nauticus Robotics Inc. Common stock,Industrials,Industrial Machinery/Components,keyword/industry match only; not an energy business
+KITTW,Nauticus Robotics Inc. Warrant,Industrials,Industrial Machinery/Components,keyword/industry match only; not an energy business
+KMT,Kennametal Inc. Common Stock,Industrials,Industrial Machinery/Components,keyword/industry match only; not an energy business
+KNF,Knife Riv Holding Co. Common Stock,Industrials,Mining & Quarrying of Nonmetallic Minerals (No Fuels),keyword/industry match only; not an energy business
+KOL,VanEck Coal ETF,ETP,Coal equity,no Alpha Vantage prices after 2026-08-29 (closed or delisted)
+KRNT,Kornit Digital Ltd. Ordinary Shares,Industrials,Industrial Machinery/Components,keyword/industry match only; not an energy business
+KTH,Structures Products Cp 8% CorTS Issued by Peco Energy Cap Tr II Preferred Stock,Finance,Finance: Consumer Services,keyword/industry match only; not an energy business
+KWR,Quaker Houghton Common Stock,Industrials,Major Chemicals,keyword/industry match only; not an energy business
+LBGJ,Li Bang International Corporation Class A Ordinary Shares,Industrials,Industrial Machinery/Components,keyword/industry match only; not an energy business
+LECO,Lincoln Electric Holdings Inc. Common Shares,Industrials,Industrial Machinery/Components,keyword/industry match only; not an energy business
+LESL,Leslie's Inc. Common Stock,Consumer Discretionary,Other Specialty Stores,keyword/industry match only; not an energy business
+LFUS,Littelfuse Inc. Common Stock,Energy,Electrical Products,electronic components
+LGO,Largo Inc. Common Shares,Industrials,Mining & Quarrying of Nonmetallic Minerals (No Fuels),keyword/industry match only; not an energy business
+LHX,L3Harris Technologies Inc. Common Stock,Industrials,Industrial Machinery/Components,keyword/industry match only; not an energy business
+LII,Lennox International Inc. Common Stock,Industrials,Industrial Machinery/Components,keyword/industry match only; not an energy business
+LIND,Lindblad Expeditions Holdings Inc. Common Stock,Consumer Discretionary,Transportation Services,keyword/industry match only; not an energy business
+LIVE,Live Ventures Incorporated Common Stock,Consumer Discretionary,Other Specialty Stores,keyword/industry match only; not an energy business
+LNN,Lindsay Corporation Common Stock,Industrials,Industrial Machinery/Components,keyword/industry match only; not an energy business
+LNT,Alliant Energy Corporation Common Stock,Utilities,Power Generation,keyword/industry match only; not an energy business
+LNZA,LanzaTech Global Inc. Common Stock,Industrials,Major Chemicals,keyword/industry match only; not an energy business
+LNZAW,LanzaTech Global Inc. Warrant,Industrials,Major Chemicals,keyword/industry match only; not an energy business
+LODE,Comstock Inc. Common Stock,Industrials,Major Chemicals,keyword/industry match only; not an energy business
+LOOP,Loop Industries Inc. Common Stock,Industrials,Major Chemicals,keyword/industry match only; not an energy business
+LOVE,The Lovesac Company Common Stock,Consumer Discretionary,Other Specialty Stores,keyword/industry match only; not an energy business
+LUD,Luda Technology Group Limited Ordinary Shares,Industrials,Steel/Iron Ore,keyword/industry match only; not an energy business
+LUNR,Intuitive Machines Inc. Class A Common Stock,Industrials,Industrial Machinery/Components,keyword/industry match only; not an energy business
+LVS,Las Vegas Sands Corp. Common Stock,Consumer Discretionary,Hotels/Resorts,keyword/industry match only; not an energy business
+LYB,LyondellBasell Industries NV Ordinary Shares Class A (Netherlands),Industrials,Major Chemicals,keyword/industry match only; not an energy business
+LYNX,Lyntris Inc. Common Stock,Industrials,Industrial Machinery/Components,keyword/industry match only; not an energy business
+MAKO,Mako Mining Corp Common Stock,Basic Materials,Precious Metals,keyword/industry match only; not an energy business
+MASS,908 Devices Inc. Common Stock,Industrials,Industrial Machinery/Components,keyword/industry match only; not an energy business
+MATX,Matson Inc. Common Stock,Consumer Discretionary,Marine Transportation,keyword/industry match only; not an energy business
+MCGA,Yorkville Acquisition Corp. Class A Ordinary Share,Utilities,Electric Utilities: Central,"blank-check company (SPAC), no operating business"
+MDU,MDU Resources Group Inc. Common Stock (Holding Company),Industrials,Mining & Quarrying of Nonmetallic Minerals (No Fuels),keyword/industry match only; not an energy business
+MEGI,NYLIM CBRE Global Infrastructure Megatrends Term Fund Common Shares,Finance,Investment Managers,keyword/industry match only; not an energy business
+MEOH,Methanex Corporation Common Stock,Industrials,Major Chemicals,keyword/industry match only; not an energy business
+MFP,Midera Food Processing Inc. Common Stock,Industrials,Industrial Machinery/Components,keyword/industry match only; not an energy business
+MGEE,MGE Energy Inc,Energy,Electric Utilities: Central,electric utility
+MIDD,Middleby Corporation (The) Common Stock,Industrials,Industrial Machinery/Components,keyword/industry match only; not an energy business
+MIND,MIND Technology Inc. Common Stock (DE),Industrials,Industrial Machinery/Components,keyword/industry match only; not an energy business
+MINE,Mayfair Gold Corp. Common Shares,Energy,Oil & Gas Production,gold explorer mis-tagged as Oil & Gas Production
+MIR,Mirion Technologies Inc. Class A Common Stock,Industrials,Industrial Machinery/Components,keyword/industry match only; not an energy business
+MKSI,MKS Inc. Common Stock,Industrials,Industrial Machinery/Components,keyword/industry match only; not an energy business
+MLAB,Mesa Laboratories Inc. Common Stock,Industrials,Industrial Machinery/Components,keyword/industry match only; not an energy business
+MLM,Martin Marietta Materials Inc. Common Stock,Industrials,Mining & Quarrying of Nonmetallic Minerals (No Fuels),keyword/industry match only; not an energy business
+MMYT,MakeMyTrip Limited Ordinary Shares,Consumer Discretionary,Transportation Services,keyword/industry match only; not an energy business
+MSM,MSC Industrial Direct Company Inc. Common Stock,Industrials,Industrial Machinery/Components,keyword/industry match only; not an energy business
+MT,Arcelor Mittal NY Registry Shares NEW,Industrials,Steel/Iron Ore,keyword/industry match only; not an energy business
+MTA,Metalla Royalty & Streaming Ltd. Common Shares,Basic Materials,Precious Metals,keyword/industry match only; not an energy business
+MTUS,Metallus Inc. Common Shares,Industrials,Steel/Iron Ore,keyword/industry match only; not an energy business
+MUX,McEwen Inc. Common Stock,Basic Materials,Precious Metals,keyword/industry match only; not an energy business
+MWH,SOLV Energy Inc. Class A Common Stock,Industrials,Military/Government/Technical,keyword/industry match only; not an energy business
+NAAS,NaaS Technology Inc. American Depositary Shares,Consumer Discretionary,Other Specialty Stores,keyword/industry match only; not an energy business
+NAK,Northern Dynasty Minerals Ltd. Common Stock,Basic Materials,Precious Metals,keyword/industry match only; not an energy business
+NAMM,Namib Minerals Ordinary Shares,Basic Materials,Precious Metals,keyword/industry match only; not an energy business
+NAMMW,Namib Minerals Warrants,Basic Materials,Precious Metals,keyword/industry match only; not an energy business
+NCLH,Norwegian Cruise Line Holdings Ltd. Ordinary Shares,Consumer Discretionary,Marine Transportation,keyword/industry match only; not an energy business
+NDSN,Nordson Corporation Common Stock,Industrials,Industrial Machinery/Components,keyword/industry match only; not an energy business
+NEE,NextEra Energy Inc. Common Stock,Utilities,Electric Utilities: Central,keyword/industry match only; not an energy business
+NEE^N,NextEra Energy Capital Holdings Inc. Series N Junior Subordinated Debentures due March 1 2079,,,keyword/industry match only; not an energy business
+NEE^S,NextEra Energy Inc. 7.299% Corporate Units,,,keyword/industry match only; not an energy business
+NEE^T,NextEra Energy Inc. 7.234% Corporate Units,,,keyword/industry match only; not an energy business
+NEE^U,NextEra Energy Inc. Series U Junior Subordinated Debentures due June 1 2085,,,keyword/industry match only; not an energy business
+NEE^V,NextEra Energy Inc. 7.375% Corporate Units,,,keyword/industry match only; not an energy business
+NEE^W,NextEra Energy Capital Holdings Inc. Series Z Junior Subordinated Debentures due April 15 2086,,,keyword/industry match only; not an energy business
+NEGG,Newegg Commerce Inc. Common Shares,Consumer Discretionary,Other Specialty Stores,keyword/industry match only; not an energy business
+NEM,Newmont Corporation,Basic Materials,Precious Metals,keyword/industry match only; not an energy business
+NEU,NewMarket Corp Common Stock,Industrials,Major Chemicals,keyword/industry match only; not an energy business
+NEWP,New Pacific Metals Corp. Common Shares,Basic Materials,Precious Metals,keyword/industry match only; not an energy business
+NEXR,Nexera Technologies Ltd Ordinary Shares,Consumer Discretionary,Other Specialty Stores,keyword/industry match only; not an energy business
+NEXRW,Nexera Technologies Ltd Warrant,Consumer Discretionary,Other Specialty Stores,keyword/industry match only; not an energy business
+NFG,National Fuel Gas Company Common Stock,Utilities,Oil/Gas Transmission,gas/multi utility (GICS Utilities)
+NFGC,New Found Gold Corp Common Shares,Basic Materials,Precious Metals,keyword/industry match only; not an energy business
+NG,Novagold Resources Inc.,Basic Materials,Precious Metals,keyword/industry match only; not an energy business
+NGG,National Grid Transco PLC National Grid PLC (NEW) American Depositary Shares,Utilities,Natural Gas Distribution,gas/multi utility (GICS Utilities)
+NGVT,Ingevity Corporation Common Stock,Industrials,Major Chemicals,keyword/industry match only; not an energy business
+NIKI,Niki BioSolutions Inc. Common Stock,Industrials,Industrial Machinery/Components,keyword/industry match only; not an energy business
+NJR,NewJersey Resources Corporation Common Stock,Utilities,Oil/Gas Transmission,gas/multi utility (GICS Utilities)
+NMG,Nouveau Monde Graphite Inc. Common Shares,Basic Materials,Other Metals and Minerals,keyword/industry match only; not an energy business
+NMM,Navios Maritime Partners LP Common Units Representing Limited Partner Interests,Consumer Discretionary,Marine Transportation,"energy-adjacent but not an energy company (diversified shipping, propane/fuel retail, tank barges)"
+NN,NextNav Inc. Common Stock,Industrials,Industrial Machinery/Components,keyword/industry match only; not an energy business
+NNBR,NN Inc. Common Stock,Industrials,Industrial Machinery/Components,keyword/industry match only; not an energy business
+NNE,Nano Nuclear Energy Inc. Common Stock,Utilities,Electric Utilities: Central,power generation / nuclear technology (Utilities or Industrials)
+NOC,Northrop Grumman Corporation Common Stock,Industrials,Industrial Machinery/Components,keyword/industry match only; not an energy business
+NOEM,CO2 Energy Transition Corp. Common Stock,,,"blank-check company (SPAC), no operating business"
+NOEMR,CO2 Energy Transition Corp. Right,,,"blank-check company (SPAC), no operating business"
+NOEMW,CO2 Energy Transition Corp. Warrant,,,"blank-check company (SPAC), no operating business"
+NRG,NRG Energy Inc. Common Stock,Utilities,Electric Utilities: Central,power generation / nuclear technology (Utilities or Industrials)
+NRGV,Energy Vault Holdings Inc. Common Stock,Miscellaneous,Industrial Machinery/Components,keyword/industry match only; not an energy business
+NTRP,NextTrip Inc. Common Stock,Consumer Discretionary,Transportation Services,keyword/industry match only; not an energy business
+NUE,Nucor Corporation Common Stock,Industrials,Steel/Iron Ore,keyword/industry match only; not an energy business
+NVA,Nova Minerals Corp Common Stock,Basic Materials,Precious Metals,keyword/industry match only; not an energy business
+NVT,nVent Electric plc Ordinary Shares,Industrials,Industrial Machinery/Components,keyword/industry match only; not an energy business
+NWE,NorthWestern Energy Group Inc. Common Stock,Utilities,Power Generation,keyword/industry match only; not an energy business
+NWN,Northwest Natural Holding Company Common Stock,Utilities,Oil/Gas Transmission,gas/multi utility (GICS Utilities)
+NWPX,NWPX Infrastructure Inc. Common Stock,Industrials,Steel/Iron Ore,keyword/industry match only; not an energy business
+OC,Owens Corning Inc Common Stock New,Industrials,Industrial Machinery/Components,keyword/industry match only; not an energy business
+ODC,Oil-Dri Corporation Of America Common Stock,Consumer Discretionary,Miscellaneous manufacturing industries,keyword/industry match only; not an energy business
+OEC,Orion S.A. Common Shares,Industrials,Major Chemicals,keyword/industry match only; not an energy business
+OESX,Orion Energy Systems Inc. Common Stock,Consumer Discretionary,Building Products,keyword/industry match only; not an energy business
+OGE,OGE Energy Corp Common Stock,Utilities,Electric Utilities: Central,keyword/industry match only; not an energy business
+OGG,Osisko Gold Group Inc. Common Shares,Basic Materials,Precious Metals,keyword/industry match only; not an energy business
+OGS,ONE Gas Inc. Common Stock,Utilities,Oil/Gas Transmission,gas/multi utility (GICS Utilities)
+OKLO,Oklo Inc. Class A common stock,Utilities,Electric Utilities: Central,power generation / nuclear technology (Utilities or Industrials)
+OLN,Olin Corporation Common Stock,Industrials,Major Chemicals,keyword/industry match only; not an energy business
+OMEX,Odyssey Marine Exploration Inc. Common Stock,Consumer Discretionary,Marine Transportation,keyword/industry match only; not an energy business
+ONEN,ONE Nuclear Energy Inc. Common Stock,Utilities,Electric Utilities: Central,keyword/industry match only; not an energy business
+ONTO,Onto Innovation Inc. Common Stock,Industrials,Industrial Machinery/Components,keyword/industry match only; not an energy business
+OPTT,Ocean Power Technologies Inc. Common Stock,Utilities,Electric Utilities: Central,keyword/industry match only; not an energy business
+OR,OR Royalties Inc. Common Shares,Basic Materials,Precious Metals,keyword/industry match only; not an energy business
+ORA,Ormat Technologies Inc. Common Stock,Utilities,Electric Utilities: Central,keyword/industry match only; not an energy business
+OTTR,Otter Tail Corporation Common Stock,Utilities,Electric Utilities: Central,keyword/industry match only; not an energy business
+OUST,Ouster Inc. Common Stock,Industrials,Industrial Machinery/Components,keyword/industry match only; not an energy business
+OWLT,Owlet Inc. Class A Common Stock,Industrials,Industrial Machinery/Components,keyword/industry match only; not an energy business
+PAAS,Pan American Silver Corp. Common Stock,Basic Materials,Precious Metals,keyword/industry match only; not an energy business
+PAL,Proficient Auto Logistics Inc. Common Stock,Consumer Discretionary,Transportation Services,keyword/industry match only; not an energy business
+PAM,Pampa Energia S.A.,Utilities,Electric Utilities: Central,power generation / nuclear technology (Utilities or Industrials)
+PANL,Pangaea Logistics Solutions Ltd. Common Shares,Consumer Discretionary,Marine Transportation,keyword/industry match only; not an energy business
+PCG,Pacific Gas & Electric Co. Common Stock,Utilities,Power Generation,keyword/industry match only; not an energy business
+PCG^A,Pacific Gas & Electric Co. 6% Preferred Stock,,,keyword/industry match only; not an energy business
+PCG^B,Pacific Gas & Electric Co. 5 1/2% Preferred Stock,,,keyword/industry match only; not an energy business
+PCG^C,Pacific Gas & Electric Co. 5% 1st Preferred Stock,,,keyword/industry match only; not an energy business
+PCG^D,Pacific Gas & Electric Co. 5% 1st  Red. Preferred Stock,,,keyword/industry match only; not an energy business
+PCG^E,Pacific Gas & Electric Co. 5% 1st A Preferred Stock,,,keyword/industry match only; not an energy business
+PCG^G,Pacific Gas & Electric Co. 4.80% 1st Preferred Stock,,,keyword/industry match only; not an energy business
+PCG^H,Pacific Gas & Electric Co. 4.50% 1st Preferred Stock,,,keyword/industry match only; not an energy business
+PCG^I,Pacific Gas & Electric Co. 4.36% 1st Preferred Stock,,,keyword/industry match only; not an energy business
+PCT,PureCycle Technologies Inc. Common stock,Industrials,Major Chemicals,keyword/industry match only; not an energy business
+PCTTW,PureCycle Technologies Inc. Warrant,Industrials,Major Chemicals,keyword/industry match only; not an energy business
+PEW,GrabAGun Digital Holdings Inc. Common Stock,Consumer Discretionary,Other Specialty Stores,keyword/industry match only; not an energy business
+PHOS,First Phosphate Corp. American Depositary Shares,Industrials,Mining & Quarrying of Nonmetallic Minerals (No Fuels),keyword/industry match only; not an energy business
+PKX,POSCO HOLDINGS INC. American Depositary Shares (Each representing 1/4th of a share of Common Stock),Industrials,Steel/Iron Ore,keyword/industry match only; not an energy business
+PLBY,Playboy Inc. Common Stock,Consumer Discretionary,Other Specialty Stores,keyword/industry match only; not an energy business
+PLG,Platinum Group Metals Ltd. Ordinary Shares (Canada),Basic Materials,Precious Metals,keyword/industry match only; not an energy business
+PLUG,Plug Power Inc. Common Stock,Energy,Industrial Machinery/Components,hydrogen/fuel cells (Industrials)
+PN,PN Smart Energy Limited Class A Ordinary Shares,Technology,Retail: Computer Software & Peripheral Equipment,keyword/industry match only; not an energy business
+PNR,Pentair plc. Ordinary Share,Industrials,Industrial Machinery/Components,keyword/industry match only; not an energy business
+PNW,Pinnacle West Capital Corporation Common Stock,Utilities,Electric Utilities: Central,keyword/industry match only; not an energy business
+POAS,Phaos Technology Holdings (Cayman) Limited Class A Ordinary Shares,Industrials,Industrial Machinery/Components,keyword/industry match only; not an energy business
+POM,POMDOCTOR LIMITED American Depositary Shares,Consumer Discretionary,Other Specialty Stores,keyword/industry match only; not an energy business
+POR,Portland General Electric Co Common Stock,Utilities,Electric Utilities: Central,keyword/industry match only; not an energy business
+POWL,Powell Industries Inc. Common Stock,Energy,Electrical Products,electrical equipment
+PPL,PPL Corporation Common Stock,Utilities,Electric Utilities: Central,keyword/industry match only; not an energy business
+PPLC,PPL Corporation Corporate Units,Utilities,Electric Utilities: Central,keyword/industry match only; not an energy business
+PPTA,Perpetua Resources Corp. Common Shares,Basic Materials,Precious Metals,keyword/industry match only; not an energy business
+PRM,Perimeter Solutions SA Common Stock,Industrials,Major Chemicals,keyword/industry match only; not an energy business
+PSIX,Power Solutions International Inc. Common Stock,Industrials,Industrial Machinery/Components,keyword/industry match only; not an energy business
+QSI,Quantum-Si Incorporated Class A Common Stock,Industrials,Industrial Machinery/Components,keyword/industry match only; not an energy business
+RAL,Ralliant Corporation Common Stock,Industrials,Industrial Machinery/Components,keyword/industry match only; not an energy business
+RCL,Royal Caribbean Cruises Ltd. Common Stock,Consumer Discretionary,Marine Transportation,keyword/industry match only; not an energy business
+REAL,The RealReal Inc. Common Stock,Consumer Discretionary,Other Specialty Stores,keyword/industry match only; not an energy business
+RENT,Rent the Runway Inc. Class A Common Stock,Consumer Discretionary,Other Specialty Stores,keyword/industry match only; not an energy business
+RERE,ATRenew Inc. American Depositary Shares (every three of which representing two Class A ordinary shares),Consumer Discretionary,Other Specialty Stores,keyword/industry match only; not an energy business
+RETO,ReTo Eco-Solutions Inc. Class A Shares,Industrials,Industrial Machinery/Components,keyword/industry match only; not an energy business
+RGCO,RGC Resources Inc. Common Stock,Utilities,Oil & Gas Production,gas/multi utility (GICS Utilities)
+RH,RH Common Stock,Consumer Discretionary,Other Specialty Stores,keyword/industry match only; not an energy business
+RKDA,Arcadia Biosciences Inc. Common Stock,Energy,Oil & Gas Production,agricultural biotech mis-tagged as Oil & Gas Production
+RMCO,Royalty Management Holding Corporation Class A Common Stock,Miscellaneous,Multi-Sector Companies,keyword/industry match only; not an energy business
+RMCOW,Royalty Management Holding Corporation Warrant,Miscellaneous,Multi-Sector Companies,keyword/industry match only; not an energy business
+RNW,ReNew Energy Global plc Class A Ordinary Shares,Utilities,Electric Utilities: Central,keyword/industry match only; not an energy business
+ROCK,Gibraltar Industries Inc. Common Stock,Industrials,Steel/Iron Ore,keyword/industry match only; not an energy business
+ROG,Rogers Corporation Common Stock,Industrials,Major Chemicals,keyword/industry match only; not an energy business
+ROK,Rockwell Automation Inc. Common Stock,Industrials,Industrial Machinery/Components,keyword/industry match only; not an energy business
+ROP,Roper Technologies Inc. Common Stock,Industrials,Industrial Machinery/Components,keyword/industry match only; not an energy business
+RPRX,Royalty Pharma plc Class A Ordinary Shares,Health Care,Biotechnology: Pharmaceutical Preparations,keyword/industry match only; not an energy business
+RR,Richtech Robotics Inc. Class B Common Stock,Industrials,Industrial Machinery/Components,keyword/industry match only; not an energy business
+RRX,Regal Rexnord Corporation Common Stock,Industrials,Industrial Machinery/Components,keyword/industry match only; not an energy business
+RXO,RXO Inc. Common Stock,Consumer Discretionary,Transportation Services,keyword/industry match only; not an energy business
+SA,Seabridge Gold Inc. Common Shares New,Basic Materials,Precious Metals,keyword/industry match only; not an energy business
+SAMO,Samos Energy Acquisition Corporation Class A Ordinary Shares,,,"blank-check company (SPAC), no operating business"
+SB,Safe Bulkers Inc Common Stock ($0.001 par value),Consumer Discretionary,Marine Transportation,keyword/industry match only; not an energy business
+SBH,Sally Beauty Holdings Inc. (Name to be changed from Sally Holdings Inc.) Common Stock,Consumer Discretionary,Other Specialty Stores,keyword/industry match only; not an energy business
+SBLK,Star Bulk Carriers Corp. Common Shares,Consumer Discretionary,Marine Transportation,keyword/industry match only; not an energy business
+SBMT,Silver Bow Mining Corp. Common Shares,Basic Materials,Precious Metals,keyword/industry match only; not an energy business
+SBSW,D/B/A Sibanye-Stillwater Limited ADS,Basic Materials,Precious Metals,keyword/industry match only; not an energy business
+SCZM,Santacruz Silver Mining Ltd. Common Shares,Basic Materials,Precious Metals,keyword/industry match only; not an energy business
+SDST,Stardust Power Inc. Common Stock,Industrials,Major Chemicals,keyword/industry match only; not an energy business
+SDSTW,Stardust Power Inc. Warrant,Industrials,Major Chemicals,keyword/industry match only; not an energy business
+SERV,Serve Robotics Inc. Common Stock,Industrials,Industrial Machinery/Components,keyword/industry match only; not an energy business
+SFL,SFL Corporation Ltd,Consumer Discretionary,Marine Transportation,"energy-adjacent but not an energy company (diversified shipping, propane/fuel retail, tank barges)"
+SGU,Star Group L.P. Common Stock,Consumer Discretionary,Other Specialty Stores,keyword/industry match only; not an energy business
+SHIP,Seanergy Maritime Holdings Corp. Common Stock,Consumer Discretionary,Marine Transportation,keyword/industry match only; not an energy business
+SID,Companhia Siderurgica Nacional S.A. Common Stock,Industrials,Steel/Iron Ore,keyword/industry match only; not an energy business
+SIM,Grupo Simec S.A.B. de C.V. American Depositary Shares,Industrials,Steel/Iron Ore,keyword/industry match only; not an energy business
+SIND,Sinda Ltd. Common Stock,Basic Materials,Precious Metals,keyword/industry match only; not an energy business
+SKE,Skeena Resources Limited Common Shares,Basic Materials,Precious Metals,keyword/industry match only; not an energy business
+SLI,Standard Lithium Ltd. Common Shares,Industrials,Major Chemicals,keyword/industry match only; not an energy business
+SO,Southern Company (The) Common Stock,Utilities,Electric Utilities: Central,keyword/industry match only; not an energy business
+SOAR,Volato Group Inc. Class A Common Stock,Consumer Discretionary,Transportation Services,keyword/industry match only; not an energy business
+SOJC,Southern Company (The) Series 2017B 5.25% Junior Subordinated Notes due December 1 2077,Utilities,Electric Utilities: Central,keyword/industry match only; not an energy business
+SOJD,Southern Company (The) Series 2020A 4.95% Junior Subordinated Notes due January 30 2080,Utilities,Electric Utilities: Central,keyword/industry match only; not an energy business
+SOJE,Southern Company (The) Series 2020C 4.20% Junior Subordinated Notes due October 15 2060,Utilities,Electric Utilities: Central,keyword/industry match only; not an energy business
+SOJF,Southern Company (The) Series 2025A 6.50% Junior Subordinated Notes due March 15 2085,Utilities,Electric Utilities: Central,keyword/industry match only; not an energy business
+SOLS,Solstice Advanced Materials Inc. Common Stock,Industrials,Major Chemicals,keyword/industry match only; not an energy business
+SOMN,Southern Company (The) 2025 Series A Corporate Units,Utilities,Electric Utilities: Central,keyword/industry match only; not an energy business
+SPCE,Virgin Galactic Holdings Inc. Common Stock,Consumer Discretionary,Transportation Services,keyword/industry match only; not an energy business
+SPH,Suburban Propane Partners L.P. Common Stock,Consumer Discretionary,Other Specialty Stores,"energy-adjacent but not an energy company (diversified shipping, propane/fuel retail, tank barges)"
+SPRU,Spruce Power Holding Corporation Class A Common Stock,Utilities,Electric Utilities: Central,keyword/industry match only; not an energy business
+SPWH,Sportsman's Warehouse Holdings Inc. Common Stock,Consumer Discretionary,Other Specialty Stores,keyword/industry match only; not an energy business
+SPXC,SPX Technologies Inc. Common Stock,Industrials,Industrial Machinery/Components,keyword/industry match only; not an energy business
+SQM,Sociedad Quimica y Minera S.A. Common Stock,Industrials,Mining & Quarrying of Nonmetallic Minerals (No Fuels),keyword/industry match only; not an energy business
+SR,Spire Inc. Common Stock,Utilities,Oil/Gas Transmission,gas/multi utility (GICS Utilities)
+SRE,DBA Sempra Common Stock,Utilities,Natural Gas Distribution,gas/multi utility (GICS Utilities)
+SREA,DBA Sempra 5.750% Junior Subordinated Notes due 2079,Utilities,Natural Gas Distribution,gas/multi utility (GICS Utilities)
+SRFM,Surf Air Mobility Inc. Common Stock,Consumer Discretionary,Transportation Services,keyword/industry match only; not an energy business
+SRJN,Spire Inc. 6.375% Junior Subordinated Notes due 2086,Utilities,Oil/Gas Transmission,gas/multi utility (GICS Utilities)
+SRL,Scully Royalty Ltd.,Industrials,Precious Metals,keyword/industry match only; not an energy business
+SSMR,Sunshine Silver Mining & Refining Company Common Stock,Basic Materials,Precious Metals,keyword/industry match only; not an energy business
+ST,Sensata Technologies Holding plc Ordinary Shares,Industrials,Industrial Machinery/Components,keyword/industry match only; not an energy business
+STDN,Standard Nuclear Inc. Class A Common Stock,Basic Materials,Major Chemicals,keyword/industry match only; not an energy business
+STLD,Steel Dynamics Inc.,Industrials,Steel/Iron Ore,keyword/industry match only; not an energy business
+STRL,Sterling Infrastructure Inc. Common Stock,Industrials,Military/Government/Technical,keyword/industry match only; not an energy business
+SUNE,SUNation Energy Inc. Common Stock,Consumer Discretionary,Engineering & Construction,keyword/industry match only; not an energy business
+SVM,Silvercorp Metals Inc. Common Shares,Basic Materials,Precious Metals,keyword/industry match only; not an energy business
+SVRN,SVRN Inc. Common Stock,Consumer Discretionary,Marine Transportation,keyword/industry match only; not an energy business
+SVV,Savers Value Village Inc. Common Stock,Consumer Discretionary,Other Specialty Stores,keyword/industry match only; not an energy business
+SWX,Southwest Gas Holdings Inc. Common Stock (DE),Utilities,Oil & Gas Production,gas/multi utility (GICS Utilities)
+SXC,SunCoke Energy Inc. Common Stock,Industrials,Steel/Iron Ore,keyword/industry match only; not an energy business
+SXI,Standex International Corporation Common Stock,Industrials,Industrial Machinery/Components,keyword/industry match only; not an energy business
+SXT,Sensient Technologies Corporation Common Stock,Industrials,Major Chemicals,keyword/industry match only; not an energy business
+SYM,Symbotic Inc. Class A Common Stock,Industrials,Industrial Machinery/Components,keyword/industry match only; not an energy business
+SYPR,Sypris Solutions Inc. Common Stock,Industrials,Industrial Machinery/Components,keyword/industry match only; not an energy business
+TAC,TransAlta Corporation Ordinary Shares,Utilities,Electric Utilities: Central,keyword/industry match only; not an energy business
+TANH,Tantech Holdings Ltd. Class A Common Shares,Industrials,Major Chemicals,keyword/industry match only; not an energy business
+TAYD,Taylor Devices Inc. Common Stock,Industrials,Industrial Machinery/Components,keyword/industry match only; not an energy business
+TDY,Teledyne Technologies Incorporated Common Stock,Industrials,Industrial Machinery/Components,keyword/industry match only; not an energy business
+TE,T1 Energy Inc. Common Stock,Technology,Semiconductors,keyword/industry match only; not an energy business
+TECK,Teck Resources Ltd Ordinary Shares,Industrials,Mining & Quarrying of Nonmetallic Minerals (No Fuels),keyword/industry match only; not an energy business
+TGB,Trekor Metals Limited Common Shares,Basic Materials,Precious Metals,keyword/industry match only; not an energy business
+TGEN,Tecogen Inc. Common Stock,Industrials,Industrial Machinery/Components,keyword/industry match only; not an energy business
+TITN,Titan Machinery Inc. Common Stock,Consumer Discretionary,Other Specialty Stores,keyword/industry match only; not an energy business
+TKLF,Tokyo Lifestyle Co. Ltd. American Depositary Shares,Consumer Discretionary,Other Specialty Stores,keyword/industry match only; not an energy business
+TLN,Talen Energy Corporation Common Stock,Utilities,Electric Utilities: Central,power generation / nuclear technology (Utilities or Industrials)
+TMCR,The Metals Royalty Company Inc. Common Stock,Basic Materials,Precious Metals,keyword/industry match only; not an energy business
+TMO,Thermo Fisher Scientific Inc Common Stock,Industrials,Industrial Machinery/Components,keyword/industry match only; not an energy business
+TMQ,Trilogy Metals Inc. Common Stock,Basic Materials,Precious Metals,keyword/industry match only; not an energy business
+TNC,Tennant Company Common Stock,Industrials,Industrial Machinery/Components,keyword/industry match only; not an energy business
+TOMZ,TOMI Environmental Solutions Inc. Common Stock,Industrials,Major Chemicals,keyword/industry match only; not an energy business
+TOUR,Tuniu Corporation American Depositary Shares,Consumer Discretionary,Transportation Services,keyword/industry match only; not an energy business
+TRMB,Trimble Inc. Common Stock,Industrials,Industrial Machinery/Components,keyword/industry match only; not an energy business
+TRSG,Tungray Technologies Inc Class A Ordinary Shares,Industrials,Industrial Machinery/Components,keyword/industry match only; not an energy business
+TRX,TRX Gold Corporation Common Stock,Basic Materials,Precious Metals,keyword/industry match only; not an energy business
+TTAM,Titan America SA Common Shares,Industrials,Mining & Quarrying of Nonmetallic Minerals (No Fuels),keyword/industry match only; not an energy business
+TURB,Turbo Energy S.A. American Depositary Shares,Miscellaneous,Industrial Machinery/Components,keyword/industry match only; not an energy business
+TVC,Tennessee Valley Authority Common Stock,Utilities,Electric Utilities: Central,keyword/industry match only; not an energy business
+TVE,Tennessee Valley Authority,Utilities,Electric Utilities: Central,keyword/industry match only; not an energy business
+TWI,Titan International Inc. (DE) Common Stock,Industrials,Steel/Iron Ore,keyword/industry match only; not an energy business
+TWIN,Twin Disc Incorporated Common Stock,Industrials,Industrial Machinery/Components,keyword/industry match only; not an energy business
+TX,Ternium S.A. Ternium S.A. American Depositary Shares (each representing ten shares USD1.00 par value),Industrials,Steel/Iron Ore,keyword/industry match only; not an energy business
+TXNM,TXNM Energy Inc. Common Stock,Utilities,Electric Utilities: Central,keyword/industry match only; not an energy business
+TYGO,Tigo Energy Inc. Common Stock,Technology,Semiconductors,keyword/industry match only; not an energy business
+UGI,UGI Corporation Common Stock,Utilities,Natural Gas Distribution,gas/multi utility (GICS Utilities)
+ULTA,Ulta Beauty Inc. Common Stock,Consumer Discretionary,Other Specialty Stores,keyword/industry match only; not an energy business
+UP,Wheels Up Experience Inc. Class A Common Stock,Consumer Discretionary,Transportation Services,keyword/industry match only; not an energy business
+USEA,United Maritime Corporation Common Stock,Consumer Discretionary,Marine Transportation,keyword/industry match only; not an energy business
+USGO,U.S. GoldMining Inc. Common stock,Basic Materials,Precious Metals,keyword/industry match only; not an energy business
+USLM,United States Lime & Minerals Inc. Common Stock,Industrials,Mining & Quarrying of Nonmetallic Minerals (No Fuels),keyword/industry match only; not an energy business
+UTF,Cohen & Steers Infrastructure Fund Inc Common Stock,Finance,Finance Companies,keyword/industry match only; not an energy business
+UZD,Array Digital Infrastructure Inc. 6.250% Senior Notes due 2069,Telecommunications,Telecommunications Equipment,keyword/industry match only; not an energy business
+UZE,Array Digital Infrastructure Inc. 5.500% Senior Notes due 2070,Telecommunications,Telecommunications Equipment,keyword/industry match only; not an energy business
+UZF,Array Digital Infrastructure Inc. 5.500% Senior Notes due 2070,Telecommunications,Telecommunications Equipment,keyword/industry match only; not an energy business
+VAI,Valor Energy Incorporated Common Stock,Consumer Discretionary,Rental/Leasing Companies,keyword/industry match only; not an energy business
+VGZ,Vista Gold Corp Common Stock,Basic Materials,Precious Metals,keyword/industry match only; not an energy business
+VIK,Viking Holdings Ltd Ordinary Shares,Consumer Discretionary,Marine Transportation,keyword/industry match only; not an energy business
+VIP,Vulcan Infrastructure and Power Inc. Class A Common Stock,Finance,Finance: Consumer Services,keyword/industry match only; not an energy business
+VMC,Vulcan Materials Company (Holding Company) Common Stock,Industrials,Mining & Quarrying of Nonmetallic Minerals (No Fuels),keyword/industry match only; not an energy business
+VMET,Versamet Royalties Corporation Common Stock,Industrials,Precious Metals,keyword/industry match only; not an energy business
+VNT,Vontier Corporation Common Stock,Industrials,Industrial Machinery/Components,keyword/industry match only; not an energy business
+VOXR,Vox Royalty Corp. Common Stock,Basic Materials,Precious Metals,keyword/industry match only; not an energy business
+VRRM,Verra Mobility Corporation Class A Common Stock,Consumer Discretionary,Transportation Services,keyword/industry match only; not an energy business
+VST,Vistra Corp. Common Stock,Utilities,Electric Utilities: Central,power generation / nuclear technology (Utilities or Industrials)
+VVV,Valvoline Inc. Common Stock,Industrials,Major Chemicals,keyword/industry match only; not an energy business
+VZLA,Vizsla Silver Corp. Common Shares,Basic Materials,Precious Metals,keyword/industry match only; not an energy business
+WAVE,Eco Wave Power Global AB (publ) American Depositary Shares,Utilities,Electric Utilities: Central,keyword/industry match only; not an energy business
+WBUY,WEBUY GLOBAL LTD. Class A Ordinary Shares,Consumer Discretionary,Other Specialty Stores,keyword/industry match only; not an energy business
+WDFC,WD-40 Company Common Stock,Industrials,Major Chemicals,keyword/industry match only; not an energy business
+WEC,WEC Energy Group Inc. Common Stock,Utilities,Power Generation,keyword/industry match only; not an energy business
+WINA,Winmark Corporation Common Stock,Consumer Discretionary,Other Specialty Stores,keyword/industry match only; not an energy business
+WLK,Westlake Corporation Common Stock,Industrials,Major Chemicals,keyword/industry match only; not an energy business
+WLKP,Westlake Chemical Partners LP Common Units representing limited partner interests,Industrials,Major Chemicals,keyword/industry match only; not an energy business
+WOOF,Petco Health and Wellness Company Inc. Class A Common Stock,Consumer Discretionary,Other Specialty Stores,keyword/industry match only; not an energy business
+WOR,Worthington Enterprises Inc. Common Shares,Industrials,Steel/Iron Ore,keyword/industry match only; not an energy business
+WPM,Wheaton Precious Metals Corp Common Shares (Canada),Basic Materials,Precious Metals,keyword/industry match only; not an energy business
+WPRT,Westport Fuel Systems Inc Common Shares,Industrials,Industrial Machinery/Components,keyword/industry match only; not an energy business
+WS,Worthington Steel Inc. Common Shares,Industrials,Steel/Iron Ore,keyword/industry match only; not an energy business
+WSHP,WeShop Holdings Limited Class A Ordinary Shares,Consumer Discretionary,Other Specialty Stores,keyword/industry match only; not an energy business
+WWD,Woodward Inc. Common Stock,Energy,Industrial Machinery/Components,aerospace & industrial controls
+XE,X-Energy Inc. Class A Common Stock,Industrials,Metal Fabrications,keyword/industry match only; not an energy business
+XEL,Xcel Energy Inc. Common Stock,Utilities,Power Generation,keyword/industry match only; not an energy business
+XELLL,Xcel Energy Inc. 6.25% Junior Subordinated Notes Series due 2085,Utilities,Power Generation,keyword/industry match only; not an energy business
+XIFR,XPLR Infrastructure LP Common Units representing limited partner interests,Utilities,Electric Utilities: Central,keyword/industry match only; not an energy business
+XPL,Solitario Resources Corp. Common Stock,Basic Materials,Precious Metals,keyword/industry match only; not an energy business
+XPO,XPO Inc. Common Stock,Consumer Discretionary,Transportation Services,keyword/industry match only; not an energy business
+XPON,Expion Energy Inc. Common Stock,Miscellaneous,Industrial Machinery/Components,keyword/industry match only; not an energy business
+YJ,Yunji Inc. American Depository Shares,Consumer Discretionary,Other Specialty Stores,keyword/industry match only; not an energy business
+YTRA,Yatra Online Inc. Ordinary Shares,Consumer Discretionary,Transportation Services,keyword/industry match only; not an energy business
+ZBRA,Zebra Technologies Corporation Class A Common Stock,Industrials,Industrial Machinery/Components,keyword/industry match only; not an energy business
+ZEO,Zeo Energy Corporation Class A Common Stock,Miscellaneous,Industrial Machinery/Components,keyword/industry match only; not an energy business
+ZEOWW,Zeo Energy Corporation Warrants,Miscellaneous,Industrial Machinery/Components,keyword/industry match only; not an energy business
+ZIM,ZIM Integrated Shipping Services Ltd. Ordinary Shares,Consumer Discretionary,Marine Transportation,keyword/industry match only; not an energy business
+ZWS,Zurn Elkay Water Solutions Corporation Common Stock,Industrials,Industrial Machinery/Components,keyword/industry match only; not an energy business

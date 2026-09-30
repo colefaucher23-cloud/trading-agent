@@ -1,0 +1,475 @@
+strategy,symbol,sub_industry,market_cap_usd
+s1_residual_reversal,REX,Alternative & renewable fuels,1413614020
+s1_residual_reversal,GPRE,Alternative & renewable fuels,1037410854
+s1_residual_reversal,HCC,Coal,4844591482
+s1_residual_reversal,CNR,Coal,4387845119
+s1_residual_reversal,ARLP,Coal,3194598029
+s1_residual_reversal,BTU,Coal,3065785000
+s1_residual_reversal,AMR,Coal,2225679559
+s1_residual_reversal,NE,Drilling (land & offshore),6802354909
+s1_residual_reversal,RIG,Drilling (land & offshore),5897126849
+s1_residual_reversal,VAL,Drilling (land & offshore),5528478953
+s1_residual_reversal,PTEN,Drilling (land & offshore),4138025883
+s1_residual_reversal,HP,Drilling (land & offshore),3744712269
+s1_residual_reversal,SDRL,Drilling (land & offshore),2850638972
+s1_residual_reversal,NBR,Drilling (land & offshore),1329839295
+s1_residual_reversal,PDS,Drilling (land & offshore),1012158463
+s1_residual_reversal,COP,Exploration & production,151416575853
+s1_residual_reversal,CNQ,Exploration & production,98373342000
+s1_residual_reversal,EOG,Exploration & production,73764538021
+s1_residual_reversal,FANG,Exploration & production,51868910906
+s1_residual_reversal,DVN,Exploration & production,51403000000
+s1_residual_reversal,EQT,Exploration & production,31194482920
+s1_residual_reversal,EXE,Exploration & production,19749588240
+s1_residual_reversal,PR,Exploration & production,17839964718
+s1_residual_reversal,OVV,Exploration & production,16829131000
+s1_residual_reversal,APA,Exploration & production,14830379418
+s1_residual_reversal,AR,Exploration & production,10557455260
+s1_residual_reversal,RRC,Exploration & production,8847106438
+s1_residual_reversal,SM,Exploration & production,7980003981
+s1_residual_reversal,CHRD,Exploration & production,7392417401
+s1_residual_reversal,MTDR,Exploration & production,6367154413
+s1_residual_reversal,MGY,Exploration & production,6354429895
+s1_residual_reversal,MUR,Exploration & production,5254918231
+s1_residual_reversal,CNX,Exploration & production,4689813293
+s1_residual_reversal,CRC,Exploration & production,4604423253
+s1_residual_reversal,CRGY,Exploration & production,4288639974
+s1_residual_reversal,CRK,Exploration & production,3726044754
+s1_residual_reversal,TALO,Exploration & production,2748251603
+s1_residual_reversal,GPOR,Exploration & production,2689539180
+s1_residual_reversal,NOG,Exploration & production,2473005261
+s1_residual_reversal,BKV,Exploration & production,2396688477
+s1_residual_reversal,VET,Exploration & production,1764864000
+s1_residual_reversal,MNR,Exploration & production,1722904330
+s1_residual_reversal,GFR,Exploration & production,1384782866
+s1_residual_reversal,TBN,Exploration & production,1165916200
+s1_residual_reversal,DEC,Exploration & production,1041582869
+s1_residual_reversal,XOM,Integrated oil & gas,668267931739
+s1_residual_reversal,CVX,Integrated oil & gas,407739917815
+s1_residual_reversal,SU,Integrated oil & gas,80435428417
+s1_residual_reversal,IMO,Integrated oil & gas,59162767620
+s1_residual_reversal,CVE,Integrated oil & gas,58312500000
+s1_residual_reversal,OXY,Integrated oil & gas,56079656513
+s1_residual_reversal,LNG,LNG export & regasification,55691935705
+s1_residual_reversal,VG,LNG export & regasification,32226196849
+s1_residual_reversal,CQP,LNG export & regasification,30398823811
+s1_residual_reversal,EE,LNG export & regasification,3724125128
+s1_residual_reversal,NEXT,LNG export & regasification,1746176440
+s1_residual_reversal,ENB,"Midstream (pipelines, G&P, storage, compression)",102587582774
+s1_residual_reversal,WMB,"Midstream (pipelines, G&P, storage, compression)",84374092219
+s1_residual_reversal,EPD,"Midstream (pipelines, G&P, storage, compression)",79144838244
+s1_residual_reversal,ET,"Midstream (pipelines, G&P, storage, compression)",69210321980
+s1_residual_reversal,KMI,"Midstream (pipelines, G&P, storage, compression)",68206947986
+s1_residual_reversal,TRGP,"Midstream (pipelines, G&P, storage, compression)",59489598156
+s1_residual_reversal,TRP,"Midstream (pipelines, G&P, storage, compression)",58680000000
+s1_residual_reversal,MPLX,"Midstream (pipelines, G&P, storage, compression)",58459066753
+s1_residual_reversal,OKE,"Midstream (pipelines, G&P, storage, compression)",55863359890
+s1_residual_reversal,PBA,"Midstream (pipelines, G&P, storage, compression)",26199052750
+s1_residual_reversal,WES,"Midstream (pipelines, G&P, storage, compression)",18704413825
+s1_residual_reversal,PAA,"Midstream (pipelines, G&P, storage, compression)",17307545264
+s1_residual_reversal,DTM,"Midstream (pipelines, G&P, storage, compression)",12442805653
+s1_residual_reversal,AM,"Midstream (pipelines, G&P, storage, compression)",9825751800
+s1_residual_reversal,KNTK,"Midstream (pipelines, G&P, storage, compression)",8315435196
+s1_residual_reversal,SOBO,"Midstream (pipelines, G&P, storage, compression)",7093963164
+s1_residual_reversal,AROC,"Midstream (pipelines, G&P, storage, compression)",5356581552
+s1_residual_reversal,KGS,"Midstream (pipelines, G&P, storage, compression)",5330204514
+s1_residual_reversal,PAGP,"Midstream (pipelines, G&P, storage, compression)",5264249698
+s1_residual_reversal,HESM,"Midstream (pipelines, G&P, storage, compression)",4938941901
+s1_residual_reversal,USAC,"Midstream (pipelines, G&P, storage, compression)",3671414929
+s1_residual_reversal,WBI,"Midstream (pipelines, G&P, storage, compression)",3574057251
+s1_residual_reversal,DKL,"Midstream (pipelines, G&P, storage, compression)",2852971253
+s1_residual_reversal,NGL,"Midstream (pipelines, G&P, storage, compression)",1857236620
+s1_residual_reversal,GEL,"Midstream (pipelines, G&P, storage, compression)",1717770953
+s1_residual_reversal,TPL,"Minerals, royalties & land",23323789056
+s1_residual_reversal,VNOM,"Minerals, royalties & land",14558169013
+s1_residual_reversal,LB,"Minerals, royalties & land",6222334457
+s1_residual_reversal,BSM,"Minerals, royalties & land",3075794857
+s1_residual_reversal,EROK,"Minerals, royalties & land",2813203602
+s1_residual_reversal,KRP,"Minerals, royalties & land",1658613911
+s1_residual_reversal,NRP,"Minerals, royalties & land",1453702701
+s1_residual_reversal,DMLP,"Minerals, royalties & land",1390759589
+s1_residual_reversal,SLB,Oilfield services & equipment,76418534964
+s1_residual_reversal,BKR,Oilfield services & equipment,56701542936
+s1_residual_reversal,FTI,Oilfield services & equipment,27694649081
+s1_residual_reversal,HAL,Oilfield services & equipment,27018417802
+s1_residual_reversal,NOV,Oilfield services & equipment,6951323438
+s1_residual_reversal,WFRD,Oilfield services & equipment,5921202211
+s1_residual_reversal,SEI,Oilfield services & equipment,5294566007
+s1_residual_reversal,WHD,Oilfield services & equipment,5150725748
+s1_residual_reversal,OII,Oilfield services & equipment,4562438927
+s1_residual_reversal,TDW,Oilfield services & equipment,4143201355
+s1_residual_reversal,LBRT,Oilfield services & equipment,3092477333
+s1_residual_reversal,NESR,Oilfield services & equipment,3006390787
+s1_residual_reversal,DNOW,Oilfield services & equipment,2917884281
+s1_residual_reversal,EFXT,Oilfield services & equipment,2885291125
+s1_residual_reversal,WTTR,Oilfield services & equipment,2794543210
+s1_residual_reversal,INVX,Oilfield services & equipment,2018347967
+s1_residual_reversal,XPRO,Oilfield services & equipment,1850611019
+s1_residual_reversal,HOS,Oilfield services & equipment,1764002701
+s1_residual_reversal,FLOC,Oilfield services & equipment,1714904267
+s1_residual_reversal,AESI,Oilfield services & equipment,1537542447
+s1_residual_reversal,RES,Oilfield services & equipment,1270094679
+s1_residual_reversal,VTOL,Oilfield services & equipment,1249706720
+s1_residual_reversal,PUMP,Oilfield services & equipment,1142262428
+s1_residual_reversal,FTK,Oilfield services & equipment,1029746796
+s1_residual_reversal,VLO,"Refining, marketing & fuel distribution",112167900982
+s1_residual_reversal,MPC,"Refining, marketing & fuel distribution",109364395703
+s1_residual_reversal,PSX,"Refining, marketing & fuel distribution",101171753252
+s1_residual_reversal,DINO,"Refining, marketing & fuel distribution",18878866925
+s1_residual_reversal,SUN,"Refining, marketing & fuel distribution",15284013816
+s1_residual_reversal,PBF,"Refining, marketing & fuel distribution",8817955379
+s1_residual_reversal,CVI,"Refining, marketing & fuel distribution",5101927899
+s1_residual_reversal,CLMT,"Refining, marketing & fuel distribution",4624326091
+s1_residual_reversal,DK,"Refining, marketing & fuel distribution",4131334780
+s1_residual_reversal,PARR,"Refining, marketing & fuel distribution",3906267917
+s1_residual_reversal,SUNC,"Refining, marketing & fuel distribution",3879760181
+s1_residual_reversal,WKC,"Refining, marketing & fuel distribution",1801560056
+s1_residual_reversal,GLP,"Refining, marketing & fuel distribution",1603570707
+s1_residual_reversal,FRO,Tankers & gas carriers,10708160961
+s1_residual_reversal,INSW,Tankers & gas carriers,5364736294
+s1_residual_reversal,GLNG,Tankers & gas carriers,4956540386
+s1_residual_reversal,STNG,Tankers & gas carriers,4306146500
+s1_residual_reversal,DHT,Tankers & gas carriers,3526811850
+s1_residual_reversal,TNK,Tankers & gas carriers,3315763649
+s1_residual_reversal,LPG,Tankers & gas carriers,2325666539
+s1_residual_reversal,FLNG,Tankers & gas carriers,1666045181
+s1_residual_reversal,NAT,Tankers & gas carriers,1649537665
+s1_residual_reversal,NVGS,Tankers & gas carriers,1414163335
+s1_residual_reversal,TEN,Tankers & gas carriers,1395209295
+s1_residual_reversal,CCEC,Tankers & gas carriers,1311302672
+s1_residual_reversal,TK,Tankers & gas carriers,1213163877
+s1_residual_reversal,CCJ,Uranium & nuclear fuel,37908790405
+s1_residual_reversal,NXE,Uranium & nuclear fuel,6027849848
+s1_residual_reversal,UEC,Uranium & nuclear fuel,4557774491
+s1_residual_reversal,LEU,Uranium & nuclear fuel,2770048666
+s1_residual_reversal,UUUU,Uranium & nuclear fuel,2756033010
+s2_capital_discipline,REX,Alternative & renewable fuels,1413614020
+s2_capital_discipline,GPRE,Alternative & renewable fuels,1037410854
+s2_capital_discipline,HCC,Coal,4844591482
+s2_capital_discipline,CNR,Coal,4387845119
+s2_capital_discipline,ARLP,Coal,3194598029
+s2_capital_discipline,BTU,Coal,3065785000
+s2_capital_discipline,AMR,Coal,2225679559
+s2_capital_discipline,NE,Drilling (land & offshore),6802354909
+s2_capital_discipline,RIG,Drilling (land & offshore),5897126849
+s2_capital_discipline,VAL,Drilling (land & offshore),5528478953
+s2_capital_discipline,PTEN,Drilling (land & offshore),4138025883
+s2_capital_discipline,HP,Drilling (land & offshore),3744712269
+s2_capital_discipline,SDRL,Drilling (land & offshore),2850638972
+s2_capital_discipline,NBR,Drilling (land & offshore),1329839295
+s2_capital_discipline,PDS,Drilling (land & offshore),1012158463
+s2_capital_discipline,COP,Exploration & production,151416575853
+s2_capital_discipline,CNQ,Exploration & production,98373342000
+s2_capital_discipline,EOG,Exploration & production,73764538021
+s2_capital_discipline,FANG,Exploration & production,51868910906
+s2_capital_discipline,DVN,Exploration & production,51403000000
+s2_capital_discipline,WDS,Exploration & production,41995302159
+s2_capital_discipline,EQT,Exploration & production,31194482920
+s2_capital_discipline,EXE,Exploration & production,19749588240
+s2_capital_discipline,PR,Exploration & production,17839964718
+s2_capital_discipline,OVV,Exploration & production,16829131000
+s2_capital_discipline,APA,Exploration & production,14830379418
+s2_capital_discipline,AR,Exploration & production,10557455260
+s2_capital_discipline,RRC,Exploration & production,8847106438
+s2_capital_discipline,SM,Exploration & production,7980003981
+s2_capital_discipline,VIST,Exploration & production,7448247368
+s2_capital_discipline,CHRD,Exploration & production,7392417401
+s2_capital_discipline,MTDR,Exploration & production,6367154413
+s2_capital_discipline,MGY,Exploration & production,6354429895
+s2_capital_discipline,MUR,Exploration & production,5254918231
+s2_capital_discipline,CNX,Exploration & production,4689813293
+s2_capital_discipline,CRC,Exploration & production,4604423253
+s2_capital_discipline,CRGY,Exploration & production,4288639974
+s2_capital_discipline,CRK,Exploration & production,3726044754
+s2_capital_discipline,TALO,Exploration & production,2748251603
+s2_capital_discipline,GPOR,Exploration & production,2689539180
+s2_capital_discipline,NOG,Exploration & production,2473005261
+s2_capital_discipline,BKV,Exploration & production,2396688477
+s2_capital_discipline,VET,Exploration & production,1764864000
+s2_capital_discipline,MNR,Exploration & production,1722904330
+s2_capital_discipline,GFR,Exploration & production,1384782866
+s2_capital_discipline,TBN,Exploration & production,1165916200
+s2_capital_discipline,DEC,Exploration & production,1041582869
+s2_capital_discipline,XOM,Integrated oil & gas,668267931739
+s2_capital_discipline,CVX,Integrated oil & gas,407739917815
+s2_capital_discipline,SHEL,Integrated oil & gas,266843046778
+s2_capital_discipline,TTE,Integrated oil & gas,197109395373
+s2_capital_discipline,PBR,Integrated oil & gas,133076165768
+s2_capital_discipline,BP,Integrated oil & gas,116314647716
+s2_capital_discipline,EQNR,Integrated oil & gas,105686456438
+s2_capital_discipline,E,Integrated oil & gas,87511537820
+s2_capital_discipline,SU,Integrated oil & gas,80435428417
+s2_capital_discipline,IMO,Integrated oil & gas,59162767620
+s2_capital_discipline,CVE,Integrated oil & gas,58312500000
+s2_capital_discipline,OXY,Integrated oil & gas,56079656513
+s2_capital_discipline,EC,Integrated oil & gas,34332440075
+s2_capital_discipline,YPF,Integrated oil & gas,20204478176
+s2_capital_discipline,SSL,Integrated oil & gas,9023320063
+s2_capital_discipline,LNG,LNG export & regasification,55691935705
+s2_capital_discipline,VG,LNG export & regasification,32226196849
+s2_capital_discipline,CQP,LNG export & regasification,30398823811
+s2_capital_discipline,EE,LNG export & regasification,3724125128
+s2_capital_discipline,NEXT,LNG export & regasification,1746176440
+s2_capital_discipline,ENB,"Midstream (pipelines, G&P, storage, compression)",102587582774
+s2_capital_discipline,WMB,"Midstream (pipelines, G&P, storage, compression)",84374092219
+s2_capital_discipline,EPD,"Midstream (pipelines, G&P, storage, compression)",79144838244
+s2_capital_discipline,ET,"Midstream (pipelines, G&P, storage, compression)",69210321980
+s2_capital_discipline,KMI,"Midstream (pipelines, G&P, storage, compression)",68206947986
+s2_capital_discipline,TRGP,"Midstream (pipelines, G&P, storage, compression)",59489598156
+s2_capital_discipline,TRP,"Midstream (pipelines, G&P, storage, compression)",58680000000
+s2_capital_discipline,MPLX,"Midstream (pipelines, G&P, storage, compression)",58459066753
+s2_capital_discipline,OKE,"Midstream (pipelines, G&P, storage, compression)",55863359890
+s2_capital_discipline,PBA,"Midstream (pipelines, G&P, storage, compression)",26199052750
+s2_capital_discipline,WES,"Midstream (pipelines, G&P, storage, compression)",18704413825
+s2_capital_discipline,PAA,"Midstream (pipelines, G&P, storage, compression)",17307545264
+s2_capital_discipline,DTM,"Midstream (pipelines, G&P, storage, compression)",12442805653
+s2_capital_discipline,AM,"Midstream (pipelines, G&P, storage, compression)",9825751800
+s2_capital_discipline,KNTK,"Midstream (pipelines, G&P, storage, compression)",8315435196
+s2_capital_discipline,SOBO,"Midstream (pipelines, G&P, storage, compression)",7093963164
+s2_capital_discipline,AROC,"Midstream (pipelines, G&P, storage, compression)",5356581552
+s2_capital_discipline,KGS,"Midstream (pipelines, G&P, storage, compression)",5330204514
+s2_capital_discipline,PAGP,"Midstream (pipelines, G&P, storage, compression)",5264249698
+s2_capital_discipline,HESM,"Midstream (pipelines, G&P, storage, compression)",4938941901
+s2_capital_discipline,TGS,"Midstream (pipelines, G&P, storage, compression)",3893280202
+s2_capital_discipline,USAC,"Midstream (pipelines, G&P, storage, compression)",3671414929
+s2_capital_discipline,WBI,"Midstream (pipelines, G&P, storage, compression)",3574057251
+s2_capital_discipline,DKL,"Midstream (pipelines, G&P, storage, compression)",2852971253
+s2_capital_discipline,NGL,"Midstream (pipelines, G&P, storage, compression)",1857236620
+s2_capital_discipline,GEL,"Midstream (pipelines, G&P, storage, compression)",1717770953
+s2_capital_discipline,TPL,"Minerals, royalties & land",23323789056
+s2_capital_discipline,VNOM,"Minerals, royalties & land",14558169013
+s2_capital_discipline,LB,"Minerals, royalties & land",6222334457
+s2_capital_discipline,BSM,"Minerals, royalties & land",3075794857
+s2_capital_discipline,EROK,"Minerals, royalties & land",2813203602
+s2_capital_discipline,KRP,"Minerals, royalties & land",1658613911
+s2_capital_discipline,NRP,"Minerals, royalties & land",1453702701
+s2_capital_discipline,DMLP,"Minerals, royalties & land",1390759589
+s2_capital_discipline,SLB,Oilfield services & equipment,76418534964
+s2_capital_discipline,BKR,Oilfield services & equipment,56701542936
+s2_capital_discipline,TS,Oilfield services & equipment,29712752576
+s2_capital_discipline,FTI,Oilfield services & equipment,27694649081
+s2_capital_discipline,HAL,Oilfield services & equipment,27018417802
+s2_capital_discipline,NOV,Oilfield services & equipment,6951323438
+s2_capital_discipline,WFRD,Oilfield services & equipment,5921202211
+s2_capital_discipline,SEI,Oilfield services & equipment,5294566007
+s2_capital_discipline,WHD,Oilfield services & equipment,5150725748
+s2_capital_discipline,OII,Oilfield services & equipment,4562438927
+s2_capital_discipline,TDW,Oilfield services & equipment,4143201355
+s2_capital_discipline,LBRT,Oilfield services & equipment,3092477333
+s2_capital_discipline,NESR,Oilfield services & equipment,3006390787
+s2_capital_discipline,DNOW,Oilfield services & equipment,2917884281
+s2_capital_discipline,EFXT,Oilfield services & equipment,2885291125
+s2_capital_discipline,WTTR,Oilfield services & equipment,2794543210
+s2_capital_discipline,INVX,Oilfield services & equipment,2018347967
+s2_capital_discipline,XPRO,Oilfield services & equipment,1850611019
+s2_capital_discipline,HOS,Oilfield services & equipment,1764002701
+s2_capital_discipline,FLOC,Oilfield services & equipment,1714904267
+s2_capital_discipline,AESI,Oilfield services & equipment,1537542447
+s2_capital_discipline,RES,Oilfield services & equipment,1270094679
+s2_capital_discipline,VTOL,Oilfield services & equipment,1249706720
+s2_capital_discipline,PUMP,Oilfield services & equipment,1142262428
+s2_capital_discipline,FTK,Oilfield services & equipment,1029746796
+s2_capital_discipline,VLO,"Refining, marketing & fuel distribution",112167900982
+s2_capital_discipline,MPC,"Refining, marketing & fuel distribution",109364395703
+s2_capital_discipline,PSX,"Refining, marketing & fuel distribution",101171753252
+s2_capital_discipline,DINO,"Refining, marketing & fuel distribution",18878866925
+s2_capital_discipline,SUN,"Refining, marketing & fuel distribution",15284013816
+s2_capital_discipline,PBF,"Refining, marketing & fuel distribution",8817955379
+s2_capital_discipline,UGP,"Refining, marketing & fuel distribution",7934336669
+s2_capital_discipline,CVI,"Refining, marketing & fuel distribution",5101927899
+s2_capital_discipline,CLMT,"Refining, marketing & fuel distribution",4624326091
+s2_capital_discipline,DK,"Refining, marketing & fuel distribution",4131334780
+s2_capital_discipline,PARR,"Refining, marketing & fuel distribution",3906267917
+s2_capital_discipline,SUNC,"Refining, marketing & fuel distribution",3879760181
+s2_capital_discipline,WKC,"Refining, marketing & fuel distribution",1801560056
+s2_capital_discipline,GLP,"Refining, marketing & fuel distribution",1603570707
+s2_capital_discipline,FRO,Tankers & gas carriers,10708160961
+s2_capital_discipline,INSW,Tankers & gas carriers,5364736294
+s2_capital_discipline,GLNG,Tankers & gas carriers,4956540386
+s2_capital_discipline,HAFN,Tankers & gas carriers,4563560007
+s2_capital_discipline,STNG,Tankers & gas carriers,4306146500
+s2_capital_discipline,BWLP,Tankers & gas carriers,3927894120
+s2_capital_discipline,TRMD,Tankers & gas carriers,3635890521
+s2_capital_discipline,DHT,Tankers & gas carriers,3526811850
+s2_capital_discipline,TNK,Tankers & gas carriers,3315763649
+s2_capital_discipline,ECO,Tankers & gas carriers,3091165336
+s2_capital_discipline,LPG,Tankers & gas carriers,2325666539
+s2_capital_discipline,FLNG,Tankers & gas carriers,1666045181
+s2_capital_discipline,NAT,Tankers & gas carriers,1649537665
+s2_capital_discipline,NVGS,Tankers & gas carriers,1414163335
+s2_capital_discipline,TEN,Tankers & gas carriers,1395209295
+s2_capital_discipline,CCEC,Tankers & gas carriers,1311302672
+s2_capital_discipline,TK,Tankers & gas carriers,1213163877
+s4_earnings_drift,REX,Alternative & renewable fuels,1413614020
+s4_earnings_drift,GPRE,Alternative & renewable fuels,1037410854
+s4_earnings_drift,HCC,Coal,4844591482
+s4_earnings_drift,CNR,Coal,4387845119
+s4_earnings_drift,ARLP,Coal,3194598029
+s4_earnings_drift,BTU,Coal,3065785000
+s4_earnings_drift,AMR,Coal,2225679559
+s4_earnings_drift,HNRG,Coal,678392907
+s4_earnings_drift,METC,Coal,571875801
+s4_earnings_drift,NE,Drilling (land & offshore),6802354909
+s4_earnings_drift,RIG,Drilling (land & offshore),5897126849
+s4_earnings_drift,VAL,Drilling (land & offshore),5528478953
+s4_earnings_drift,PTEN,Drilling (land & offshore),4138025883
+s4_earnings_drift,HP,Drilling (land & offshore),3744712269
+s4_earnings_drift,SDRL,Drilling (land & offshore),2850638972
+s4_earnings_drift,NBR,Drilling (land & offshore),1329839295
+s4_earnings_drift,PDS,Drilling (land & offshore),1012158463
+s4_earnings_drift,COP,Exploration & production,151416575853
+s4_earnings_drift,CNQ,Exploration & production,98373342000
+s4_earnings_drift,EOG,Exploration & production,73764538021
+s4_earnings_drift,FANG,Exploration & production,51868910906
+s4_earnings_drift,DVN,Exploration & production,51403000000
+s4_earnings_drift,EQT,Exploration & production,31194482920
+s4_earnings_drift,EXE,Exploration & production,19749588240
+s4_earnings_drift,PR,Exploration & production,17839964718
+s4_earnings_drift,OVV,Exploration & production,16829131000
+s4_earnings_drift,APA,Exploration & production,14830379418
+s4_earnings_drift,AR,Exploration & production,10557455260
+s4_earnings_drift,RRC,Exploration & production,8847106438
+s4_earnings_drift,SM,Exploration & production,7980003981
+s4_earnings_drift,CHRD,Exploration & production,7392417401
+s4_earnings_drift,MTDR,Exploration & production,6367154413
+s4_earnings_drift,MGY,Exploration & production,6354429895
+s4_earnings_drift,MUR,Exploration & production,5254918231
+s4_earnings_drift,CNX,Exploration & production,4689813293
+s4_earnings_drift,CRC,Exploration & production,4604423253
+s4_earnings_drift,CRGY,Exploration & production,4288639974
+s4_earnings_drift,CRK,Exploration & production,3726044754
+s4_earnings_drift,TALO,Exploration & production,2748251603
+s4_earnings_drift,GPOR,Exploration & production,2689539180
+s4_earnings_drift,NOG,Exploration & production,2473005261
+s4_earnings_drift,BKV,Exploration & production,2396688477
+s4_earnings_drift,VET,Exploration & production,1764864000
+s4_earnings_drift,MNR,Exploration & production,1722904330
+s4_earnings_drift,GFR,Exploration & production,1384782866
+s4_earnings_drift,TBN,Exploration & production,1165916200
+s4_earnings_drift,DEC,Exploration & production,1041582869
+s4_earnings_drift,HPK,Exploration & production,959776782
+s4_earnings_drift,REPX,Exploration & production,888809854
+s4_earnings_drift,INR,Exploration & production,794680893
+s4_earnings_drift,TXO,Exploration & production,791220228
+s4_earnings_drift,NUAI,Exploration & production,741652999
+s4_earnings_drift,OBE,Exploration & production,711961832
+s4_earnings_drift,VTS,Exploration & production,705247310
+s4_earnings_drift,GPRK,Exploration & production,693086642
+s4_earnings_drift,EGY,Exploration & production,605904641
+s4_earnings_drift,SD,Exploration & production,504224026
+s4_earnings_drift,XOM,Integrated oil & gas,668267931739
+s4_earnings_drift,CVX,Integrated oil & gas,407739917815
+s4_earnings_drift,SU,Integrated oil & gas,80435428417
+s4_earnings_drift,IMO,Integrated oil & gas,59162767620
+s4_earnings_drift,CVE,Integrated oil & gas,58312500000
+s4_earnings_drift,OXY,Integrated oil & gas,56079656513
+s4_earnings_drift,LNG,LNG export & regasification,55691935705
+s4_earnings_drift,VG,LNG export & regasification,32226196849
+s4_earnings_drift,CQP,LNG export & regasification,30398823811
+s4_earnings_drift,EE,LNG export & regasification,3724125128
+s4_earnings_drift,NEXT,LNG export & regasification,1746176440
+s4_earnings_drift,ENB,"Midstream (pipelines, G&P, storage, compression)",102587582774
+s4_earnings_drift,WMB,"Midstream (pipelines, G&P, storage, compression)",84374092219
+s4_earnings_drift,EPD,"Midstream (pipelines, G&P, storage, compression)",79144838244
+s4_earnings_drift,ET,"Midstream (pipelines, G&P, storage, compression)",69210321980
+s4_earnings_drift,KMI,"Midstream (pipelines, G&P, storage, compression)",68206947986
+s4_earnings_drift,TRGP,"Midstream (pipelines, G&P, storage, compression)",59489598156
+s4_earnings_drift,TRP,"Midstream (pipelines, G&P, storage, compression)",58680000000
+s4_earnings_drift,MPLX,"Midstream (pipelines, G&P, storage, compression)",58459066753
+s4_earnings_drift,OKE,"Midstream (pipelines, G&P, storage, compression)",55863359890
+s4_earnings_drift,PBA,"Midstream (pipelines, G&P, storage, compression)",26199052750
+s4_earnings_drift,WES,"Midstream (pipelines, G&P, storage, compression)",18704413825
+s4_earnings_drift,PAA,"Midstream (pipelines, G&P, storage, compression)",17307545264
+s4_earnings_drift,DTM,"Midstream (pipelines, G&P, storage, compression)",12442805653
+s4_earnings_drift,AM,"Midstream (pipelines, G&P, storage, compression)",9825751800
+s4_earnings_drift,KNTK,"Midstream (pipelines, G&P, storage, compression)",8315435196
+s4_earnings_drift,SOBO,"Midstream (pipelines, G&P, storage, compression)",7093963164
+s4_earnings_drift,AROC,"Midstream (pipelines, G&P, storage, compression)",5356581552
+s4_earnings_drift,KGS,"Midstream (pipelines, G&P, storage, compression)",5330204514
+s4_earnings_drift,PAGP,"Midstream (pipelines, G&P, storage, compression)",5264249698
+s4_earnings_drift,HESM,"Midstream (pipelines, G&P, storage, compression)",4938941901
+s4_earnings_drift,USAC,"Midstream (pipelines, G&P, storage, compression)",3671414929
+s4_earnings_drift,WBI,"Midstream (pipelines, G&P, storage, compression)",3574057251
+s4_earnings_drift,DKL,"Midstream (pipelines, G&P, storage, compression)",2852971253
+s4_earnings_drift,NGL,"Midstream (pipelines, G&P, storage, compression)",1857236620
+s4_earnings_drift,GEL,"Midstream (pipelines, G&P, storage, compression)",1717770953
+s4_earnings_drift,SMC,"Midstream (pipelines, G&P, storage, compression)",622645886
+s4_earnings_drift,TPL,"Minerals, royalties & land",23323789056
+s4_earnings_drift,VNOM,"Minerals, royalties & land",14558169013
+s4_earnings_drift,LB,"Minerals, royalties & land",6222334457
+s4_earnings_drift,BSM,"Minerals, royalties & land",3075794857
+s4_earnings_drift,EROK,"Minerals, royalties & land",2813203602
+s4_earnings_drift,KRP,"Minerals, royalties & land",1658613911
+s4_earnings_drift,NRP,"Minerals, royalties & land",1453702701
+s4_earnings_drift,DMLP,"Minerals, royalties & land",1390759589
+s4_earnings_drift,WHK,"Minerals, royalties & land",708468974
+s4_earnings_drift,SLB,Oilfield services & equipment,76418534964
+s4_earnings_drift,BKR,Oilfield services & equipment,56701542936
+s4_earnings_drift,FTI,Oilfield services & equipment,27694649081
+s4_earnings_drift,HAL,Oilfield services & equipment,27018417802
+s4_earnings_drift,NOV,Oilfield services & equipment,6951323438
+s4_earnings_drift,WFRD,Oilfield services & equipment,5921202211
+s4_earnings_drift,SEI,Oilfield services & equipment,5294566007
+s4_earnings_drift,WHD,Oilfield services & equipment,5150725748
+s4_earnings_drift,OII,Oilfield services & equipment,4562438927
+s4_earnings_drift,TDW,Oilfield services & equipment,4143201355
+s4_earnings_drift,LBRT,Oilfield services & equipment,3092477333
+s4_earnings_drift,NESR,Oilfield services & equipment,3006390787
+s4_earnings_drift,DNOW,Oilfield services & equipment,2917884281
+s4_earnings_drift,EFXT,Oilfield services & equipment,2885291125
+s4_earnings_drift,WTTR,Oilfield services & equipment,2794543210
+s4_earnings_drift,INVX,Oilfield services & equipment,2018347967
+s4_earnings_drift,XPRO,Oilfield services & equipment,1850611019
+s4_earnings_drift,HOS,Oilfield services & equipment,1764002701
+s4_earnings_drift,FLOC,Oilfield services & equipment,1714904267
+s4_earnings_drift,AESI,Oilfield services & equipment,1537542447
+s4_earnings_drift,RES,Oilfield services & equipment,1270094679
+s4_earnings_drift,VTOL,Oilfield services & equipment,1249706720
+s4_earnings_drift,PUMP,Oilfield services & equipment,1142262428
+s4_earnings_drift,FTK,Oilfield services & equipment,1029746796
+s4_earnings_drift,FET,Oilfield services & equipment,952119290
+s4_earnings_drift,TTI,Oilfield services & equipment,875110124
+s4_earnings_drift,HMH,Oilfield services & equipment,847052861
+s4_earnings_drift,OIS,Oilfield services & equipment,501280964
+s4_earnings_drift,VLO,"Refining, marketing & fuel distribution",112167900982
+s4_earnings_drift,MPC,"Refining, marketing & fuel distribution",109364395703
+s4_earnings_drift,PSX,"Refining, marketing & fuel distribution",101171753252
+s4_earnings_drift,DINO,"Refining, marketing & fuel distribution",18878866925
+s4_earnings_drift,SUN,"Refining, marketing & fuel distribution",15284013816
+s4_earnings_drift,PBF,"Refining, marketing & fuel distribution",8817955379
+s4_earnings_drift,CVI,"Refining, marketing & fuel distribution",5101927899
+s4_earnings_drift,CLMT,"Refining, marketing & fuel distribution",4624326091
+s4_earnings_drift,DK,"Refining, marketing & fuel distribution",4131334780
+s4_earnings_drift,PARR,"Refining, marketing & fuel distribution",3906267917
+s4_earnings_drift,SUNC,"Refining, marketing & fuel distribution",3879760181
+s4_earnings_drift,WKC,"Refining, marketing & fuel distribution",1801560056
+s4_earnings_drift,GLP,"Refining, marketing & fuel distribution",1603570707
+s4_earnings_drift,CAPL,"Refining, marketing & fuel distribution",824160575
+s4_earnings_drift,FRO,Tankers & gas carriers,10708160961
+s4_earnings_drift,INSW,Tankers & gas carriers,5364736294
+s4_earnings_drift,GLNG,Tankers & gas carriers,4956540386
+s4_earnings_drift,STNG,Tankers & gas carriers,4306146500
+s4_earnings_drift,DHT,Tankers & gas carriers,3526811850
+s4_earnings_drift,TNK,Tankers & gas carriers,3315763649
+s4_earnings_drift,LPG,Tankers & gas carriers,2325666539
+s4_earnings_drift,FLNG,Tankers & gas carriers,1666045181
+s4_earnings_drift,NAT,Tankers & gas carriers,1649537665
+s4_earnings_drift,NVGS,Tankers & gas carriers,1414163335
+s4_earnings_drift,TEN,Tankers & gas carriers,1395209295
+s4_earnings_drift,CCEC,Tankers & gas carriers,1311302672
+s4_earnings_drift,TK,Tankers & gas carriers,1213163877
+s4_earnings_drift,ASC,Tankers & gas carriers,740567444
+s4_earnings_drift,CCJ,Uranium & nuclear fuel,37908790405
+s4_earnings_drift,NXE,Uranium & nuclear fuel,6027849848
+s4_earnings_drift,UEC,Uranium & nuclear fuel,4557774491
+s4_earnings_drift,LEU,Uranium & nuclear fuel,2770048666
+s4_earnings_drift,UUUU,Uranium & nuclear fuel,2756033010
+s4_earnings_drift,ISOU,Uranium & nuclear fuel,606092225
+s3_trend_carry,XLE,US energy equity - broad,
+s3_trend_carry,XOP,E&P equity,
+s3_trend_carry,OIH,Oilfield services equity,
+s3_trend_carry,AMLP,Midstream / MLP,
+s3_trend_carry,URA,Uranium & nuclear,
+s3_trend_carry,USO,Crude oil futures,
+s3_trend_carry,UNG,Natural gas futures,
+s3_trend_carry,UGA,Gasoline futures,

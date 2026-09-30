@@ -1,0 +1,147 @@
+# Machine-readable parameters for the four energy strategies described in STRATEGIES.md.
+# Universe rows come from research/energy-universe/energy_universe.csv (static attributes);
+# dynamic screens (price, ADV, market cap, history) are applied point-in-time at each rebalance.
+# Conventions shared by all strategies are in [common]; nothing here has been fitted to data.
+
+[common]
+backtest_start = "2012-01-03"
+backtest_end = "2026-09-29"
+signal_time = "close_t"                 # all signals use data available at the close of day t
+execution = "open_t+1"                  # fills at the next session's open (variant: VWAP_t+1)
+capital_levels_usd = [1_000_000, 10_000_000, 100_000_000]
+cost_stress_multiplier = 2.0
+cash_rate_proxy = "BIL"                 # T-bill ETF return for idle cash and excess-return calcs
+point_in_time_universe = true           # must include names later delisted (bankruptcy, M&A)
+
+# Liquidity tiers by 60-day median daily dollar volume -> half-spread (bps, per side)
+[common.cost_model]
+tiers_adv_usd = [200e6, 50e6, 20e6, 5e6]        # A >= 200M, B >= 50M, C >= 20M, D >= 5M, below D: not tradable
+half_spread_bps = [1.5, 3.0, 6.0, 12.0]
+impact_model = "sqrt"                    # impact_bps = 1e4 * Y * sigma_daily * sqrt(order_usd / adv_usd)
+impact_Y = 0.5                           # stress: 1.0
+commission_bps = 0.0                     # Alpaca equities; add 0.5 bps allowance for fees/rebates
+fees_allowance_bps = 0.5
+sec_fee_bps_on_sells = 0.28              # update to the SEC's current Section 31 rate
+borrow_gc_annual = 0.003                 # large/mid-cap general collateral
+borrow_small_annual = 0.02               # small caps, MLPs
+borrow_htb_threshold_annual = 0.05       # names above this are excluded from short books
+etf_half_spread_bps = { XLE = 1.0, XOP = 1.5, USO = 1.5, OIH = 3.0, AMLP = 3.0, MLPX = 3.0, URA = 4.0, UNG = 4.0, CRAK = 15.0, UGA = 10.0, USL = 8.0, UNL = 15.0, BIL = 0.5 }
+
+# Sub-industry -> hedge ETF (factor model uses leave-one-out peer averages; hedges use these)
+[common.hedge_etf]
+"Integrated oil & gas" = "XLE"
+"Exploration & production" = "XOP"
+"Minerals, royalties & land" = "XOP"
+"Drilling (land & offshore)" = "OIH"
+"Oilfield services & equipment" = "OIH"
+"Refining, marketing & fuel distribution" = "CRAK"
+"Midstream (pipelines, G&P, storage, compression)" = "MLPX"
+"LNG export & regasification" = "MLPX"
+"Tankers & gas carriers" = "XLE"
+"Coal" = "XLE"
+"Uranium & nuclear fuel" = "URA"
+"Alternative & renewable fuels" = "XLE"
+
+# ----------------------------------------------------------------------------------------
+[s1_residual_reversal]
+name = "Energy Residual Reversal"
+asset_classes = ["equity"]
+alignment = ["core", "borderline"]
+security_types = ["common", "partnership_units", "llc_units"]   # no ADRs (asynchronous home-market closes)
+exclude_sub_industries = ["Royalty trusts", "Gas-fired power solutions"]
+exclude_foreign_primary = true          # BP, TTE, E, EQNR, TS, Oslo/Copenhagen-primary tankers, ...
+min_price = 5.0
+min_adv_usd = 20e6
+min_market_cap_usd = 1e9
+min_history_days = 252
+short_min_market_cap_usd = 2e9
+factor_model = { window_days = 252, halflife_days = 126, factors = ["XLE", "PEER_LOO", "USL", "UNL"], peer_min_names = 5 }
+signal_lookback_days = 5
+residual_vol_halflife_days = 60
+entry_abs_z_min = 1.0
+select_fraction = 0.10                  # top/bottom decile of the reversal score
+long_book = 0.50
+short_book = 0.50
+max_name_weight = 0.04
+neutralize = ["XLE_beta", "USL_beta", "UNL_beta"]
+max_sub_industry_net = 0.05
+holding_days = 5
+sleeves = 5                             # overlapping daily sleeves (1/5 of capital each)
+stop_abs_z = 4.0                        # exit if residual z extends past this in the same direction
+skip_earnings_window = [-2, 1]          # trading days around an earnings date
+skip_jump_abs_return = 0.25             # skip names with a >25% one-day move (M&A / news jump)
+
+[s2_capital_discipline]
+name = "Capital-Discipline Value"
+asset_classes = ["equity"]
+alignment = ["core", "borderline"]
+security_types = ["common", "partnership_units", "llc_units", "adr"]
+exclude_sub_industries = ["Royalty trusts", "Uranium & nuclear fuel", "Gas-fired power solutions"]
+buckets = { upstream = ["Integrated oil & gas", "Exploration & production", "Minerals, royalties & land", "Coal"], services = ["Oilfield services & equipment", "Drilling (land & offshore)"], downstream = ["Refining, marketing & fuel distribution", "Alternative & renewable fuels"], midstream = ["Midstream (pipelines, G&P, storage, compression)", "LNG export & regasification"], shipping = ["Tankers & gas carriers"] }
+min_bucket_names = 6                    # smaller buckets merge into upstream
+min_price = 5.0
+min_adv_usd = 5e6
+min_market_cap_usd = 1e9
+min_quarters_fundamentals = 8
+filing_lag_trading_days = 2             # statement must be filed >= 2 trading days before rebalance
+winsorize_pct = [2.5, 97.5]
+factor_weights = { fcf_yield = 0.30, shareholder_yield = 0.20, reinvestment_rate = -0.15, asset_growth = -0.15, net_debt_to_ebitda = -0.10, ev_to_ebitda = -0.10 }
+net_debt_to_ebitda_cap = 5.0
+select_quantile = 0.20
+sell_buffer_quantile = 0.30             # held names are kept until they fall out of the top 30%
+long_book = 0.50
+short_book = 0.50
+max_name_weight_in_leg = 0.05
+bucket_weights = "market_cap_share"
+exclude_from_short = ["partnership_units"]   # MLP borrow/K-1 friction
+rebalance = "15th trading day of Feb, May, Aug, Nov"
+variants = ["long_only_top40pct_vs_VDE", "fcf_yield_only", "discipline_only_no_valuation"]
+
+[s3_trend_carry]
+name = "Energy Trend & Carry"
+instruments = ["XLE", "XOP", "OIH", "AMLP", "URA", "USO", "UNG", "UGA"]
+carry_proxy = { USO = "USL", UNG = "UNL", UGA = "USL" }   # front-month fund vs 12-month strip fund
+cash = "BIL"
+trend_lookbacks_days = [21, 63, 126, 252]
+trend = "mean_sign_excess_return"
+carry_lookback_days = 63
+carry_deadband_annual = 0.02
+commodity_signal_weights = { trend = 0.5, carry = 0.5 }
+vol_estimator = { type = "ewma", halflife_days = 60 }
+portfolio_vol_target_annual = 0.12
+max_abs_weight = 0.50
+max_gross = 2.00
+allow_short = true
+rebalance = "weekly: Friday close signal, Monday open trade"
+no_trade_band = { rel = 0.25, abs = 0.03 }
+risk_brake = { realized_days = 5, trigger_multiple = 2.0 }   # cut exposure if 5-day realized vol > 2x target
+variants = ["long_only_with_cash", "trend_only", "carry_only", "12m_strip_funds_USL_UNL"]
+
+[s4_earnings_drift]
+name = "Commodity-Hedged Earnings Drift"
+asset_classes = ["equity"]
+alignment = ["core", "borderline"]
+security_types = ["common", "partnership_units", "llc_units"]   # ADRs excluded (semiannual/6-K reporting)
+exclude_sub_industries = ["Royalty trusts", "Gas-fired power solutions"]
+exclude_foreign_primary = true          # BP, TTE, E, EQNR, TS, Oslo/Copenhagen-primary tankers, ...
+min_price = 5.0
+min_adv_usd = 5e6
+min_market_cap_usd = 500e6
+min_prior_quarters = 8
+ear_window = [-2, 1]                    # trading days around the announcement (day 0 = first session reacting)
+abnormal_model = { window = [-252, -10], factors = ["HEDGE_ETF", "USL", "UNL"] }
+sue = "consensus"                        # fallback "seasonal_random_walk" when consensus is unavailable
+score = { ear_rank = 0.5, sue_rank = 0.5 }
+rank_reference = "trailing_12m_events"   # percentiles from past events only
+long_threshold_pct = 80
+short_threshold_pct = 20
+require_sign_agreement = true
+entry = "open of day +2"
+base_weight = 0.03
+weight_bounds = [0.01, 0.05]
+max_positions_per_side = 20
+hedge = ["HEDGE_ETF_beta", "USL_beta", "UNL_beta"]
+hedge_refresh = "weekly"
+holding_days = 40
+exit_before_next_earnings_days = 3
+variants = ["ear_only_no_consensus", "sue_only", "holding_20d", "holding_60d", "no_commodity_hedge"]
